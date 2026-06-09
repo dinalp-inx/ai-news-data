@@ -686,5 +686,35 @@
         "title": "Apple\u2019s WWDC AI demos looked more real after $250M false ad settlement",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-08T23:16:30.828332"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/08/why-apples-slow-and-steady-ai-bet-is-starting-to-look-pretty-smart/",
+        "title": "Why Apple\u2019s slow-and-steady AI bet is starting to look pretty smart",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-09T04:06:44.016334"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/08/mercors-brendan-foody-calls-out-sequoia-over-dual-pricing-valuation-tricks/",
+        "title": "Mercor\u2019s Brendan Foody calls out Sequoia, accusing it of \u2018dual-pricing\u2019 valuation tricks",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-09T04:06:44.016334"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.07549",
+        "title": "PathoSage: Towards Multi-Source Evidence Adjudication in Pathology via Experience-Aware Agentic Workflow",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-09T04:06:44.016334"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.07577",
+        "title": "OmniMem: Perturbation-aware Memory Compression for Streaming Audio-Visual LLMs",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-09T04:06:44.016334"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.07594",
+        "title": "Syll: Open-Source Personal Automation with Cross-Surface Execution",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-09T04:06:44.016334"
     }
 ]

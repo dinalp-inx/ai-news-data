@@ -1,25 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/travelers",
-        "saved_at": "2026-06-02T18:47:27.877703"
-    },
-    {
-        "url": "https://openai.com/index/codex-for-every-role-tool-workflow",
-        "saved_at": "2026-06-02T18:47:27.877703"
-    },
-    {
-        "url": "https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership",
-        "saved_at": "2026-06-02T18:47:27.877703"
-    },
-    {
-        "url": "https://huggingface.co/blog/Hcompany/holo31",
-        "saved_at": "2026-06-02T18:47:27.877703"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/02/martin-scorsese-becomes-the-latest-and-most-unlikely-hollywood-voice-for-ai/",
-        "saved_at": "2026-06-02T18:47:27.877703"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
         "saved_at": "2026-06-02T21:53:41.681045"
     },
@@ -672,5 +652,29 @@
         "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-09T16:08:12.058008"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
+        "title": "Can tech companies learn to love cheaper AI models?",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-09T19:21:29.152499"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/09/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
+        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence, and more",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-09T19:21:29.152499"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/09/anthropic-released-claude-fable-5-its-most-powerful-model-publicly-days-after-warning-ai-is-getting-too-dangerous/",
+        "title": "Anthropic\u2019s Claude Fable 5 is a version of Mythos the public can access today",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-09T19:21:29.152499"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/09/its-not-faang-anymore-its-mangos/",
+        "title": "It\u2019s not FAANG anymore. It\u2019s MANGOS.",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-09T19:21:29.152499"
     }
 ]

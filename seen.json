@@ -1,21 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/02/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months/",
-        "saved_at": "2026-06-02T21:53:41.681045"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/02/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions/",
-        "saved_at": "2026-06-02T21:53:41.681045"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/02/microsoft-launches-scout-an-openclaw-inspired-personal-assistant/",
-        "saved_at": "2026-06-02T21:53:41.681045"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/02/google-rolls-out-fake-call-detection-to-protect-against-ai-deepfake-impersonation-scams/",
-        "saved_at": "2026-06-02T21:53:41.681045"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/02/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses/",
         "saved_at": "2026-06-02T23:52:37.798736"
     },
@@ -712,5 +696,17 @@
         "title": "Anthropic\u2019s Fable 5 can make weirdly fun video games with the click of a button",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-09T21:52:36.448088"
+    },
+    {
+        "url": "https://openai.com/index/notion",
+        "title": "What Codex unlocks for Notion",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-09T23:21:42.935926"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
+        "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-09T23:21:42.935926"
     }
 ]

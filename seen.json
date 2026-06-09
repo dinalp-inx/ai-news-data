@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/02/zerodrift-raises-10-million-to-protect-ai-models-from-themselves/",
-        "saved_at": "2026-06-02T14:13:23.609332"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/02/rocket-engine-startup-impulse-raises-500-million-to-hire-people-not-ai/",
-        "saved_at": "2026-06-02T14:13:23.609332"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/02/1138277/the-download-ai-tips-small-businesses-admin/",
-        "saved_at": "2026-06-02T14:13:23.609332"
-    },
-    {
         "url": "https://openai.com/index/travelers",
         "saved_at": "2026-06-02T18:47:27.877703"
     },
@@ -666,5 +654,23 @@
         "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-09T12:10:10.937170"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
+        "title": "Sandstone raises $30M to bring AI to in-house legal teams",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-09T16:08:12.058008"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
+        "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-09T16:08:12.058008"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
+        "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-09T16:08:12.058008"
     }
 ]

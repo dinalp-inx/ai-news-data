@@ -676,5 +676,41 @@
         "title": "It\u2019s not FAANG anymore. It\u2019s MANGOS.",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-09T19:21:29.152499"
+    },
+    {
+        "url": "https://openai.com/index/nextdoor",
+        "title": "How engineers at Nextdoor use Codex to build without limits",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-09T21:52:36.448088"
+    },
+    {
+        "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
+        "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-09T21:52:36.448088"
+    },
+    {
+        "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
+        "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-09T21:52:36.448088"
+    },
+    {
+        "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+        "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-09T21:52:36.448088"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
+        "title": "Hey Siri, here\u2019s what I actually want from AI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-09T21:52:36.448088"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
+        "title": "Anthropic\u2019s Fable 5 can make weirdly fun video games with the click of a button",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-09T21:52:36.448088"
     }
 ]

@@ -734,5 +734,23 @@
         "title": "Deployment-Time Memorization in Foundation-Model Agents",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-10T04:18:21.093284"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.10086",
+        "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-10T04:29:26.372565"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.10094",
+        "title": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-10T04:29:26.372565"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.10147",
+        "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-10T04:29:26.372565"
     }
 ]

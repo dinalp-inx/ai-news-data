@@ -1,25 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
-        "saved_at": "2026-06-03T14:56:16.770701"
-    },
-    {
-        "url": "https://huggingface.co/blog/adding-mcp-tools-to-reachy-mini",
-        "saved_at": "2026-06-03T14:56:16.770701"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/03/metas-ai-agent-for-whatsapp-business-is-now-available-globally/",
-        "saved_at": "2026-06-03T14:56:16.770701"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/03/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents/",
-        "saved_at": "2026-06-03T14:56:16.770701"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/03/1138322/the-download-trump-ai-order-smart-glasses-warfare/",
-        "saved_at": "2026-06-03T14:56:16.770701"
-    },
-    {
         "url": "https://openai.com/index/public-policy-agenda",
         "saved_at": "2026-06-03T18:52:47.875978"
     },
@@ -756,5 +736,35 @@
         "title": "The \u201csteroid olympics\u201d were a circus\u2014and a window into our culture",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-10T12:29:06.814101"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
+        "title": "How memory tools can make AI models worse",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-10T16:39:42.735736"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/10/cybersecurity-researchers-arent-happy-about-the-guardrails-on-anthropics-fable/",
+        "title": "Cybersecurity researchers aren\u2019t happy about the guardrails on Anthropic\u2019s Fable",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-10T16:39:42.735736"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/10/datadog-veterans-launch-ai-coding-startup-niteshift-on-a-bet-against-big-ai-lock-in/",
+        "title": "Datadog veterans launch AI coding startup Niteshift on a bet against Big AI lock-in",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-10T16:39:42.735736"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/10/the-three-hard-tech-moonshots-fueling-spacexs-unbelievable-ipo/",
+        "title": "The three hard-tech moonshots fueling SpaceX\u2019s unbelievable IPO",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-10T16:39:42.735736"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/10/warner-music-acquires-ai-attribution-startup-sureel-ai/",
+        "title": "Warner Music acquires AI attribution startup Sureel AI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-10T16:39:42.735736"
     }
 ]

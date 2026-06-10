@@ -1,21 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
-        "saved_at": "2026-06-03T21:54:57.088641"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/03/alphabets-record-breaking-85b-raise-for-googles-ai-business-is-a-helluva-good-signal/",
-        "saved_at": "2026-06-03T21:54:57.088641"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/03/googles-dreambeans-its-weirdest-named-ai-tool-to-date-will-turn-your-life-into-a-cartoon/",
-        "saved_at": "2026-06-03T21:54:57.088641"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/03/1138350/virtual-power-plants-data-centers/",
-        "saved_at": "2026-06-03T21:54:57.088641"
-    },
-    {
         "url": "https://openai.com/index/wasmer",
         "saved_at": "2026-06-03T23:50:05.232777"
     },
@@ -752,5 +736,17 @@
         "title": "\u2018AI-pilled\u2019 firms spend $7,500 per employee each month on AI",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-10T19:40:03.345126"
+    },
+    {
+        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
+        "title": "PRC-linked influence operations are targeting AI debates in the US",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-10T22:10:04.690878"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
+        "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-10T22:10:04.690878"
     }
 ]

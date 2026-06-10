@@ -1,25 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/public-policy-agenda",
-        "saved_at": "2026-06-03T18:52:47.875978"
-    },
-    {
-        "url": "https://openai.com/index/frontier-safety-blueprint",
-        "saved_at": "2026-06-03T18:52:47.875978"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/03/amazon-will-show-ai-product-images-when-you-search-for-some-reason/",
-        "saved_at": "2026-06-03T18:52:47.875978"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/03/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked/",
-        "saved_at": "2026-06-03T18:52:47.875978"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/03/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation/",
-        "saved_at": "2026-06-03T18:52:47.875978"
-    },
-    {
         "url": "https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind",
         "saved_at": "2026-06-03T21:54:57.088641"
     },
@@ -766,5 +746,11 @@
         "title": "Warner Music acquires AI attribution startup Sureel AI",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-10T16:39:42.735736"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
+        "title": "\u2018AI-pilled\u2019 firms spend $7,500 per employee each month on AI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-10T19:40:03.345126"
     }
 ]

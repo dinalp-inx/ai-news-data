@@ -1,25 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2606.02673",
-        "saved_at": "2026-06-03T04:52:25.916567"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.02775",
-        "saved_at": "2026-06-03T04:52:25.916567"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.02791",
-        "saved_at": "2026-06-03T04:52:25.916567"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.02798",
-        "saved_at": "2026-06-03T04:52:25.916567"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.02802",
-        "saved_at": "2026-06-03T04:52:25.916567"
-    },
-    {
         "url": "https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots",
         "saved_at": "2026-06-03T14:56:16.770701"
     },
@@ -752,5 +732,11 @@
         "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-10T04:29:26.372565"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
+        "title": "Meta signs first AI data center deal in India with Reliance",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-10T08:54:50.759182"
     }
 ]

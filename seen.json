@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/chatgpt-memory-dreaming",
-        "saved_at": "2026-06-04T16:24:25.498726"
-    },
-    {
-        "url": "https://huggingface.co/blog/nvidia/fine-tuning-nemotron-35-asr",
-        "saved_at": "2026-06-04T16:24:25.498726"
-    },
-    {
-        "url": "https://huggingface.co/blog/ServiceNow-AI/eva-bench-data",
-        "saved_at": "2026-06-04T16:24:25.498726"
-    },
-    {
-        "url": "https://huggingface.co/blog/hf-cli-for-agents",
-        "saved_at": "2026-06-04T16:24:25.498726"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/04/is-silicon-valley-ready-to-put-robots-in-peoples-homes-hello-robot-is/",
-        "saved_at": "2026-06-04T16:24:25.498726"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/04/1138408/the-download-ai-lawsuits-virtual-power-plants-data-centers/",
-        "saved_at": "2026-06-04T16:24:25.498726"
-    },
-    {
         "url": "https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety",
         "saved_at": "2026-06-04T19:26:33.664093"
     },
@@ -816,5 +792,29 @@
         "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-11T14:44:12.679275"
+    },
+    {
+        "url": "https://openai.com/index/openai-to-acquire-ona",
+        "title": "OpenAI to acquire Ona",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-11T18:21:14.839883"
+    },
+    {
+        "url": "https://openai.com/index/bbva",
+        "title": "BBVA puts AI at the core of banking with OpenAI",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-11T18:21:14.839883"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
+        "title": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-11T18:21:14.839883"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
+        "title": "Pool\u2019s new app turns your screenshots into something useful",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-11T18:21:14.839883"
     }
 ]

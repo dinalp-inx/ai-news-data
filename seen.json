@@ -1,9 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/endava-frontiers",
-        "saved_at": "2026-06-04T08:54:39.260955"
-    },
-    {
         "url": "https://huggingface.co/blog/nvidia/task-seeded-sdg",
         "saved_at": "2026-06-04T12:07:25.524559"
     },
@@ -774,5 +770,35 @@
         "title": "Knowing When to Ask: Self-Gated Clarification for Hierarchical Language Agents",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-11T05:56:38.888548"
+    },
+    {
+        "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
+        "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-11T10:53:51.440274"
+    },
+    {
+        "url": "https://huggingface.co/blog/torch-mlp-fusion",
+        "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-11T10:53:51.440274"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
+        "title": "Job titles of the future: Nature\u2019s drug designer",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-11T10:53:51.440274"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
+        "title": "Inside soccer\u2019s data renaissance",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-11T10:53:51.440274"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
+        "title": "Why China is betting on big nuclear reactors",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-11T10:53:51.440274"
     }
 ]

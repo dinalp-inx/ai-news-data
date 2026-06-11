@@ -1,13 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/wasmer",
-        "saved_at": "2026-06-03T23:50:05.232777"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/03/lovable-signs-multi-year-deal-with-google-cloud-to-up-usage-5x-source-says/",
-        "saved_at": "2026-06-03T23:50:05.232777"
-    },
-    {
         "url": "https://arxiv.org/abs/2606.04037",
         "saved_at": "2026-06-04T04:46:28.453442"
     },
@@ -748,5 +740,23 @@
         "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-10T22:10:04.690878"
+    },
+    {
+        "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
+        "title": "How an astrophysicist uses Codex to help simulate black holes",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-11T00:21:59.503018"
+    },
+    {
+        "url": "https://openai.com/index/openai-on-oracle-cloud",
+        "title": "Access OpenAI models and Codex through your Oracle cloud commitment",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-11T00:21:59.503018"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-11T00:21:59.503018"
     }
 ]

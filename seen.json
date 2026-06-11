@@ -1,13 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/nvidia/task-seeded-sdg",
-        "saved_at": "2026-06-04T12:07:25.524559"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/04/1138391/courts-coping-ai-lawsuits/",
-        "saved_at": "2026-06-04T12:07:25.524559"
-    },
-    {
         "url": "https://openai.com/index/chatgpt-memory-dreaming",
         "saved_at": "2026-06-04T16:24:25.498726"
     },
@@ -800,5 +792,29 @@
         "title": "Why China is betting on big nuclear reactors",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-11T10:53:51.440274"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
+        "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-11T14:44:12.679275"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
+        "title": "The Download: soccer\u2019s data renaissance and China\u2019s big nuclear plans",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-11T14:44:12.679275"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
+        "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-11T14:44:12.679275"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.11379",
+        "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-11T14:44:12.679275"
     }
 ]

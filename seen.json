@@ -1,9 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-        "saved_at": "2026-06-05T08:47:46.529517"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
         "title": "Are AI chatbots making us lose control of our brains?",
         "source": "MIT Technology Review AI",
@@ -818,5 +814,29 @@
         "title": "Strategic Decision Support for AI Agents",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-12T04:43:11.846410"
+    },
+    {
+        "url": "https://openai.com/index/preply",
+        "title": "How Preply combines AI and human tutors to personalize learning",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-12T09:04:07.320206"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
+        "title": "Cheaper, faster, and culturally aware, Avataar\u2019s video AI is built for India\u2019s scale",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-12T09:04:07.320206"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.12594",
+        "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-12T09:04:07.320206"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.12616",
+        "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-12T09:04:07.320206"
     }
 ]

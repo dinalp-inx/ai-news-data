@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/06/05/1138427/are-ai-chatbots-making-us-lose-control-of-our-brains/",
-        "title": "Are AI chatbots making us lose control of our brains?",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-05T16:42:46.972225"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-        "title": "The Meta hack shows there\u2019s more to AI security than Mythos",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-05T16:42:46.972225"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
-        "title": "The token bill comes due: Inside the industry scramble to manage AI\u2019s runaway costs",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-05T16:04:29.682073"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
-        "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-05T16:04:29.682073"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/05/1138452/the-download-ai-hacking-mythos-chatbots-brain-impacts/",
-        "title": "The Download: AI hacking beyond Mythos, and chatbots\u2019 impact on our brains",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-05T16:04:29.682073"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
         "title": "Google will pay SpaceX $920M per month for compute",
         "source": "TechCrunch AI",
@@ -862,5 +832,29 @@
         "title": "Inside interoception: The hidden sense of how you feel inside",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-12T13:32:03.393241"
+    },
+    {
+        "url": "https://huggingface.co/blog/allenai/olmo-eval",
+        "title": "olmo-eval: An evaluation workbench for the model development loop",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-12T16:48:43.841002"
+    },
+    {
+        "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
+        "title": "SpaceX, Anthropic, and OpenAI\u2019s hot IPO summer",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-12T16:48:43.841002"
+    },
+    {
+        "url": "https://techcrunch.com/podcast/its-hot-ipo-summer-and-the-mangos-are-ripe/",
+        "title": "It\u2019s\u00a0hot IPO summer, and the MANGOS are ripe",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-12T16:48:43.841002"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/12/spacex-ipo-everything-you-need-to-know/",
+        "title": "SpaceX IPO: Everything you need to know",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-12T16:48:43.841002"
     }
 ]

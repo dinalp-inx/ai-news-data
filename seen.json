@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2606.05256",
-        "title": "How Far Did They Go? The Persuasive Tactics of Covert LLM Agents in a Discontinued Field Experiment",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-06T04:03:31.841491"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.05304",
-        "title": "What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-06T04:03:31.841491"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.05316",
-        "title": "I Know What You Meme, Even If it Emerged Today: Understanding Evolving Memes through Open-World Knowledge Acquisition",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-06T04:03:31.841491"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.05332",
-        "title": "GITCO: Gated Inference-Time Context Optimization in TSFMs",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-06T04:03:31.841491"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.05334",
-        "title": "Uncertainty Aware Functional Behavior Prediction and Material Fatigue Assessment for Circular Factory",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-06T04:03:31.841491"
-    },
-    {
         "url": "https://huggingface.co/blog/build-small-hackathon/persona-atlas",
         "title": "Persona Atlas: Mapping How Famous Minds Think",
         "source": "Hugging Face Blog",
@@ -862,5 +832,17 @@
         "title": "Meta\u2019s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-12T23:23:39.455188"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/12/andrew-yang-thinks-the-next-big-startup-opportunity-is-lowering-the-cost-of-living/",
+        "title": "Andrew Yang thinks the next big startup opportunity is lowering the cost of living",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-13T04:22:02.360587"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai/",
+        "title": "Anthropic\u2019s safety warnings may have just backfired \u2014 the government has pulled the plug on its most powerful AI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-13T04:22:02.360587"
     }
 ]

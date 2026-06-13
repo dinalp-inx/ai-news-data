@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v2",
-        "title": "Five labs, five minds: building a multi-model finance drama on small models",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-06T20:14:47.129822"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/06/what-to-expect-from-wwdc-2026-siris-highly-anticipated-revamp-and-apple-intelligence-updates/",
-        "title": "What to expect from WWDC 2026: Siri\u2019s highly anticipated revamp and Apple Intelligence updates",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-06T20:14:47.129822"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/06/openai-unveils-lockdown-mode-to-protect-sensitive-data-from-prompt-injection-attacks/",
         "title": "OpenAI unveils Lockdown Mode to protect sensitive data from prompt injection attacks",
         "source": "TechCrunch AI",
@@ -826,5 +814,11 @@
         "title": "OpenAI faces investigation from state attorneys general",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-13T18:14:28.660648"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
+        "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-13T20:20:51.354593"
     }
 ]

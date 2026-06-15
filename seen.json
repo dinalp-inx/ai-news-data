@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
-        "title": "Why this year\u2019s World Cup ball may not fly as far",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-08T11:16:35.520761"
-    },
-    {
         "url": "https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim-v3",
         "title": "The crash that vanished: control and emergence in a five-model economy",
         "source": "Hugging Face Blog",
@@ -808,5 +802,35 @@
         "title": "Orchestra-o1: Omnimodal Agent Orchestration",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-15T05:05:21.336229"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
+        "title": "A satellite just learned to find things on its own \u2014 here\u2019s what that means",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-15T12:30:57.693646"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
+        "title": "The AI layoff wave is becoming a powder keg",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-15T12:30:57.693646"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
+        "title": "The Download: cutting AC emissions, and nature\u2019s drug designer",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-15T12:30:57.693646"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+        "title": "These new solid-state ACs promise a cool future. Scientists aren\u2019t so sure.",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-15T12:30:57.693646"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.13710",
+        "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-15T12:30:57.693646"
     }
 ]

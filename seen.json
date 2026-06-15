@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2606.06514",
-        "title": "Detecting and Mitigating Bias by Treating Fairness as a Symmetry Operation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-08T04:16:05.202121"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.06518",
-        "title": "DiBS: Diffusion-Informed Branch Selection",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-08T04:16:05.202121"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.06519",
-        "title": "SafeGene: Reusable Adapters for Transferable Safety Alignment",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-08T04:16:05.202121"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.06523",
-        "title": "Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-08T04:16:05.202121"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.06526",
-        "title": "CrowdMath: A Dataset of Crowdsourced Mathematical Research Discussions",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-08T04:16:05.202121"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/06/08/1138470/why-this-years-world-cup-ball-may-not-fly-as-far/",
         "title": "Why this year\u2019s World Cup ball may not fly as far",
         "source": "MIT Technology Review AI",
@@ -808,5 +778,35 @@
         "title": "As AI companies race to go public, who else is along for the ride?",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-14T17:25:32.456773"
+    },
+    {
+        "url": "https://openai.com/index/introducing-openai-partner-network",
+        "title": "Introducing the OpenAI Partner Network",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-15T05:05:21.336229"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.13682",
+        "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-15T05:05:21.336229"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.13683",
+        "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-15T05:05:21.336229"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.13703",
+        "title": "History of the Muddy Children Puzzle",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-15T05:05:21.336229"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.13707",
+        "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-15T05:05:21.336229"
     }
 ]

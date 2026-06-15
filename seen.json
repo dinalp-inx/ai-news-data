@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/economic-research-exchange",
-        "title": "Introducing the OpenAI Economic Research Exchange",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-08T19:25:29.657370"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/08/wwdc-2026-everything-announced-on-siri-ai-os-27-apple-intelligence-and-more/",
-        "title": "WWDC 2026: Everything announced on Siri AI, iOS 27, Apple Intelligence and more",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-08T19:25:29.657370"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/08/apple-just-taught-your-iphone-to-finish-your-sentences-your-photos-and-your-workflows/",
-        "title": "Apple just taught your iPhone to finish your sentences, your photos, and your workflows",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-08T19:25:29.657370"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/08/apple-will-let-you-build-workflows-using-ai-in-its-new-shortcuts-app/",
-        "title": "Apple will let you build workflows using AI in its new Shortcuts app",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-08T19:25:29.657370"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/08/apples-image-playground-doesnt-suck-anymore/",
-        "title": "Apple\u2019s Image Playground doesn\u2019t suck anymore",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-08T19:25:29.657370"
-    },
-    {
         "url": "https://openai.com/index/openai-submits-confidential-s-1",
         "title": "Confidential submission of draft S-1 to the SEC",
         "source": "OpenAI Blog",
@@ -832,5 +802,29 @@
         "title": "As AI agents become employees, NewCore emerges with $66M to give them identities",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-15T17:58:22.695607"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
+        "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-15T21:14:36.175275"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+        "title": "SpaceX is public: Everything you need to know post-IPO",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-15T21:14:36.175275"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
+        "title": "Why do South Koreans love AI so much?",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-15T21:14:36.175275"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
+        "title": "This man with ALS is \u201cthe first power user\u201d of a brain implant that lets him speak",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-15T21:14:36.175275"
     }
 ]

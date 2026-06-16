@@ -1,53 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/nextdoor",
-        "title": "How engineers at Nextdoor use Codex to build without limits",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-09T21:52:36.448088"
-    },
-    {
-        "url": "https://huggingface.co/blog/ServiceNow-AI/code-switching",
-        "title": "Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-09T21:52:36.448088"
-    },
-    {
-        "url": "https://huggingface.co/blog/CohereLabs/introducing-north-mini-code",
-        "title": "Introducing North Mini Code: Cohere\u2019s First Model For Developers",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-09T21:52:36.448088"
-    },
-    {
-        "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-        "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-09T21:52:36.448088"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/09/hey-siri-heres-what-i-actually-want-from-ai/",
-        "title": "Hey Siri, here\u2019s what I actually want from AI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-09T21:52:36.448088"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/09/anthropics-fable-5-can-make-weirdly-fun-video-games-with-the-click-of-a-button/",
-        "title": "Anthropic\u2019s Fable 5 can make weirdly fun video games with the click of a button",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-09T21:52:36.448088"
-    },
-    {
-        "url": "https://openai.com/index/notion",
-        "title": "What Codex unlocks for Notion",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-09T23:21:42.935926"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-400m-into-hot-startups-without-a-traditional-vc-fund/",
-        "title": "How Justin Ernest invested nearly $400M into hot startups without a traditional VC fund",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-09T23:21:42.935926"
-    },
-    {
         "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
         "title": "Industrial policy for the Intelligence Age",
         "source": "OpenAI Blog",
@@ -784,5 +736,23 @@
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
         "source": "VentureBeat AI",
         "saved_at": "2026-06-16T21:11:04.644850"
+    },
+    {
+        "url": "https://huggingface.co/blog/github-ci-hf-jobs",
+        "title": "Migrating Your GitHub CI to Hugging Face Jobs",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-16T23:27:43.059225"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
+        "title": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-16T23:27:43.059225"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
+        "title": "Exclusive eBook: How AI is becoming the next military advisor",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-16T23:27:43.059225"
     }
 ]

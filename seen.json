@@ -1,95 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
-        "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/09/how-an-e-scooter-founder-raised-5-million-to-build-space-data-centers/",
-        "title": "How an e-scooter founder raised $5 million to build space data centers",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-        "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
-        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-        "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-        "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/09/1137830/learning-to-lead-in-a-hybrid-human-ai-enterprise/",
-        "title": "Learning to lead in a hybrid human-AI enterprise",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/09/1138545/david-sinclair-plans-to-test-whole-body-rejuvenation-drugs-in-the-xprize-competition/",
-        "title": "David Sinclair plans to test whole-body rejuvenation drugs in the XPrize competition",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/09/1138582/five-things-you-need-to-know-about-ai/",
-        "title": "Five things you need to know about AI",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.07718",
-        "title": "A case study of evaluating AI agents on a neuroscience data-to-discovery pipeline",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.07720",
-        "title": "Why Limit the Residual Stream to Layers and Not Tokens? Persistent Memory for Continuous Latent Reasoning",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-09T12:10:10.937170"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/09/sandstone-raises-30m-to-bring-ai-to-in-house-legal-teams/",
-        "title": "Sandstone raises $30M to bring AI to in-house legal teams",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-09T16:08:12.058008"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/09/lovable-says-it-has-hit-500m-in-annualized-revenue-with-1-million-new-projects-a-week/",
-        "title": "Lovable says it has hit $500M in annualized revenue, with 1 million new projects a week",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-09T16:08:12.058008"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/09/1138604/the-download-anti-aging-drugs-ai-five-things-to-know/",
-        "title": "The Download: whole-body rejuvenation drugs and five things to know about AI",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-09T16:08:12.058008"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/09/can-tech-companies-learn-to-love-cheaper-models/",
         "title": "Can tech companies learn to love cheaper AI models?",
         "source": "TechCrunch AI",
@@ -814,5 +724,59 @@
         "title": "PrologMCP: A Standardized Prolog Tool Interface for LLM Agents",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-16T11:23:53.238681"
+    },
+    {
+        "url": "https://huggingface.co/blog/mishig/spaces-agents-md",
+        "title": "How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-16T17:07:47.660460"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
+        "title": "Sixty percent of U.S. consumers say \u2018AI\u2019 in brand messaging is a turnoff, survey finds",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-16T17:07:47.660460"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/16/spacex-is-public-everything-you-need-to-know-post-ipo/",
+        "title": "SpaceX is public: Everything you need to know post-IPO",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-16T17:07:47.660460"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/16/doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-energy-security/",
+        "title": "DOJ claims xAI\u2019s unpermitted gas turbines are a matter of \u2018national, economic, and energy security\u2019",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-16T17:07:47.660460"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/16/plaud-says-its-software-business-topped-100m-in-arr-after-shipping-over-2m-ai-notetakers/",
+        "title": "Plaud says its software business topped $100M in ARR after shipping over 2M AI notetakers",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-16T17:07:47.660460"
+    },
+    {
+        "url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
+        "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
+        "source": "VentureBeat AI",
+        "saved_at": "2026-06-16T17:07:47.660460"
+    },
+    {
+        "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+        "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+        "source": "VentureBeat AI",
+        "saved_at": "2026-06-16T17:07:47.660460"
+    },
+    {
+        "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+        "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+        "source": "VentureBeat AI",
+        "saved_at": "2026-06-16T17:07:47.660460"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/16/1139010/the-download-brain-implant-power-user-bci-south-korea-ai-obsession/",
+        "title": "The Download: the first brain implant power user and South Korea\u2019s AI obsession",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-16T17:07:47.660460"
     }
 ]

@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
-        "title": "Meta signs first AI data center deal in India with Reliance",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-10T08:54:50.759182"
-    },
-    {
         "url": "https://openai.com/index/lseg",
         "title": "From data to decisions: how LSEG is scaling trusted AI",
         "source": "OpenAI Blog",
@@ -736,5 +730,23 @@
         "title": "Nothing from Something: Can a Language Model Discover 0?",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-17T04:50:04.328446"
+    },
+    {
+        "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
+        "title": "GLM-5.2: Built for Long-Horizon Tasks",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-17T09:54:43.432818"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
+        "title": "Entrepreneurs in Nairobi make the case for going solar",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-17T09:54:43.432818"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
+        "title": "Hacking the atmosphere: Geoengineering gets a reality check",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-17T09:54:43.432818"
     }
 ]

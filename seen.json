@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/lseg",
-        "title": "From data to decisions: how LSEG is scaling trusted AI",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-10T12:29:06.814101"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/10/1138739/the-download-steroid-olympics-enhanced-games-anthropic-mythos/",
-        "title": "The Download: the \u201csteroid olympics\u201d and a safer Mythos",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-10T12:29:06.814101"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/10/1138670/enhanced-games-doping-steroids-hormones-supplements-longevity/",
-        "title": "The \u201csteroid olympics\u201d were a circus\u2014and a window into our culture",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-10T12:29:06.814101"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/10/how-memory-tools-can-make-ai-models-worse/",
         "title": "How memory tools can make AI models worse",
         "source": "TechCrunch AI",
@@ -748,5 +730,35 @@
         "title": "Hacking the atmosphere: Geoengineering gets a reality check",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-17T09:54:43.432818"
+    },
+    {
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+        "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-17T13:46:50.257565"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/17/canadian-pension-giant-joins-race-to-fund-indias-ai-fueled-data-center-boom/",
+        "title": "Canadian pension giant joins race to fund India\u2019s AI-fueled data center boom",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-17T13:46:50.257565"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/17/deepl-acquires-mixhalo-for-live-event-audio-streaming-and-translation/",
+        "title": "DeepL acquires Mixhalo for live-event audio streaming and translation",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-17T13:46:50.257565"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
+        "title": "Pinterest launches an experimental AI shopping app called \u2018Ask Pinterest\u2019",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-17T13:46:50.257565"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/17/1139200/the-download-solar-geoengineering-interoception/",
+        "title": "The Download: a reality check for geoengineering and the science of interoception",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-17T13:46:50.257565"
     }
 ]

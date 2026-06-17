@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/10/ai-pilled-firms-spend-7500-per-employee-each-month-on-ai/",
-        "title": "\u2018AI-pilled\u2019 firms spend $7,500 per employee each month on AI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-10T19:40:03.345126"
-    },
-    {
         "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
         "title": "PRC-linked influence operations are targeting AI debates in the US",
         "source": "OpenAI Blog",
@@ -766,5 +760,35 @@
         "title": "Pramaana Labs raises $27M seed round from Khosla Ventures to bring formal verification to AI",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-17T17:11:13.491687"
+    },
+    {
+        "url": "https://openai.com/index/ai-chemist-improves-reaction",
+        "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-17T20:22:11.757496"
+    },
+    {
+        "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
+        "title": "NEA\u2019s Tiffany Luck says enterprises are still figuring out their AI ROI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-17T20:22:11.757496"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
+        "title": "World leaders want American AI. They just don\u2019t want America to be able to turn it off.",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-17T20:22:11.757496"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
+        "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-17T20:22:11.757496"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
+        "title": "Social media\u2019s next evolution: user-controlled algorithms",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-17T20:22:11.757496"
     }
 ]

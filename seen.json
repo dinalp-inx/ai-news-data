@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/prc-linked-influence-operations-ai-debates",
-        "title": "PRC-linked influence operations are targeting AI debates in the US",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-10T22:10:04.690878"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/10/fresh-off-bond-sale-amazon-borrows-17-5-billion-from-banks-as-ai-spending-continues/",
-        "title": "Fresh off bond sale, Amazon borrows $17.5B from banks as AI spending continues",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-10T22:10:04.690878"
-    },
-    {
         "url": "https://openai.com/index/using-codex-to-simulate-black-holes",
         "title": "How an astrophysicist uses Codex to help simulate black holes",
         "source": "OpenAI Blog",
@@ -790,5 +778,23 @@
         "title": "Social media\u2019s next evolution: user-controlled algorithms",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-17T20:22:11.757496"
+    },
+    {
+        "url": "https://openai.com/index/introducing-life-sci-bench",
+        "title": "Introducing LifeSciBench",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-17T22:47:55.151447"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+        "title": "Roelof Botha joins SpaceX\u2019s board of directors",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-17T22:47:55.151447"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+        "title": "After unveiling ridiculously expensive AR glasses, Snap\u2019s stock takes a dive",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-17T22:47:55.151447"
     }
 ]

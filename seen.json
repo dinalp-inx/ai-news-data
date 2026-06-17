@@ -1,53 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age",
-        "title": "Industrial policy for the Intelligence Age",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-10T04:18:21.093284"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/09/google-just-fired-a-warning-shot-in-the-ai-subscription-price-wars/",
-        "title": "Google just fired a warning shot in the AI subscription price wars",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-10T04:18:21.093284"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/09/how-justin-ernest-invested-nearly-500m-into-hot-startups-without-a-traditional-vc-fund/",
-        "title": "How Justin Ernest invested nearly $500M into hot startups without a traditional VC fund",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-10T04:18:21.093284"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.10044",
-        "title": "Business World Model",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-10T04:18:21.093284"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.10062",
-        "title": "Deployment-Time Memorization in Foundation-Model Agents",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-10T04:18:21.093284"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.10086",
-        "title": "Exploratory Responsiveness and Adaptive Rigidity under AI-Assisted Optimization",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-10T04:29:26.372565"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.10094",
-        "title": "Predictive Assistance and the Temporal Dynamics of Exploratory Compression",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-10T04:29:26.372565"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.10147",
-        "title": "From Senses to Decisions: The Information Flow of Auditory and Visual Perception in Multimodal LLMs",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-10T04:29:26.372565"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/10/meta-signs-first-ai-data-center-deal-in-india-with-reliance/",
         "title": "Meta signs first AI data center deal in India with Reliance",
         "source": "TechCrunch AI",
@@ -754,5 +706,35 @@
         "title": "Exclusive eBook: How AI is becoming the next military advisor",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-16T23:27:43.059225"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.17209",
+        "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-17T04:50:04.328446"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.17220",
+        "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-17T04:50:04.328446"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.17266",
+        "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-17T04:50:04.328446"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.17269",
+        "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-17T04:50:04.328446"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.17289",
+        "title": "Nothing from Something: Can a Language Model Discover 0?",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-17T04:50:04.328446"
     }
 ]

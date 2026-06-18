@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/openai-to-acquire-ona",
-        "title": "OpenAI to acquire Ona",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-11T18:21:14.839883"
-    },
-    {
-        "url": "https://openai.com/index/bbva",
-        "title": "BBVA puts AI at the core of banking with OpenAI",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-11T18:21:14.839883"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/11/deezers-new-tool-can-identify-ai-music-from-spotify-apple-music-and-others/",
-        "title": "Deezer\u2019s new tool can identify AI music from Spotify, Apple Music, and others",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-11T18:21:14.839883"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/11/pools-new-app-turns-your-screenshots-into-a-searchable-memory-bank/",
-        "title": "Pool\u2019s new app turns your screenshots into something useful",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-11T18:21:14.839883"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/11/spacex-officially-prices-shares-at-135-in-the-largest-ipo-ever/",
         "title": "SpaceX officially prices shares at $135 in the largest IPO ever",
         "source": "TechCrunch AI",
@@ -784,5 +760,29 @@
         "title": "The Download: a new hunt for dark matter and Kenya\u2019s case for going solar",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-18T15:39:58.554523"
+    },
+    {
+        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
+        "title": "Improving health intelligence in ChatGPT",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-18T18:29:45.922511"
+    },
+    {
+        "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
+        "title": "MosaicLeaks: Can your research agent keep a secret?",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-18T18:29:45.922511"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
+        "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-18T18:29:45.922511"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
+        "title": "\u2018Queer Eye\u2019s\u2019 life coach Karamo Brown launches K\u0113, a wellness app featuring his AI digital clone",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-18T18:29:45.922511"
     }
 ]

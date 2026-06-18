@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
-        "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-11T14:44:12.679275"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/11/1138809/the-download-soccer-football-data-analytics-china-nuclear-power/",
-        "title": "The Download: soccer\u2019s data renaissance and China\u2019s big nuclear plans",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-11T14:44:12.679275"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/11/1138794/google-deepmind-is-worried-about-what-happens-when-millions-of-agents-start-to-interact/",
-        "title": "Google DeepMind is worried about what happens when millions of agents start to interact",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-11T14:44:12.679275"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.11379",
-        "title": "Automated Mediator for Human Negotiation: Pre-Mediation via a Structured LLM Pipeline",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-11T14:44:12.679275"
-    },
-    {
         "url": "https://openai.com/index/openai-to-acquire-ona",
         "title": "OpenAI to acquire Ona",
         "source": "OpenAI Blog",
@@ -766,5 +742,47 @@
         "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-18T11:15:00.314679"
+    },
+    {
+        "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
+        "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-18T15:39:58.554523"
+    },
+    {
+        "url": "https://huggingface.co/blog/peft-beyond-lora",
+        "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-18T15:39:58.554523"
+    },
+    {
+        "url": "https://huggingface.co/blog/is-it-agentic-enough",
+        "title": "Is it agentic enough? Benchmarking open models on your own tooling",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-18T15:39:58.554523"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
+        "title": "General Intuition in talks to raise $300M at around $2B valuation",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-18T15:39:58.554523"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
+        "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech\u2019s $100M gunfight",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-18T15:39:58.554523"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
+        "title": "Pixi\u2019s new iOS app turns text messages into interactive AR experiences",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-18T15:39:58.554523"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
+        "title": "The Download: a new hunt for dark matter and Kenya\u2019s case for going solar",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-18T15:39:58.554523"
     }
 ]

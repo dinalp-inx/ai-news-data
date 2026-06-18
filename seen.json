@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/supporting-eu-trustworthy-ai-ecosystem",
-        "title": "Supporting Europe\u2019s work in ensuring a trustworthy AI ecosystem",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-11T10:53:51.440274"
-    },
-    {
-        "url": "https://huggingface.co/blog/torch-mlp-fusion",
-        "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-11T10:53:51.440274"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/11/1138502/job-titles-natures-drug-designer-tim-cernak/",
-        "title": "Job titles of the future: Nature\u2019s drug designer",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-11T10:53:51.440274"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/11/1138506/inside-soccer-data-renaissance-jesse-davis/",
-        "title": "Inside soccer\u2019s data renaissance",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-11T10:53:51.440274"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/11/1138789/china-big-nuclear-reactors/",
-        "title": "Why China is betting on big nuclear reactors",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-11T10:53:51.440274"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/11/doordashs-new-ai-chatbot-lets-you-order-with-prompts-and-photos/",
         "title": "DoorDash\u2019s new AI chatbot lets you order with prompts and photos",
         "source": "TechCrunch AI",
@@ -772,5 +742,29 @@
         "title": "CEO-Bench: Can Agents Play the Long Game?",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-18T06:00:28.458251"
+    },
+    {
+        "url": "https://huggingface.co/blog/torch-mlp-fusion",
+        "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-18T11:15:00.314679"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
+        "title": "Geoengineering still faces major practical challenges",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-18T11:15:00.314679"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
+        "title": "The search for dark matter has been blown wide open",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-18T11:15:00.314679"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.18557",
+        "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-18T11:15:00.314679"
     }
 ]

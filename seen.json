@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/preply",
-        "title": "How Preply combines AI and human tutors to personalize learning",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-12T09:04:07.320206"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/11/cheaper-faster-and-culturally-aware-avataars-video-ai-is-built-for-indias-scale/",
-        "title": "Cheaper, faster, and culturally aware, Avataar\u2019s video AI is built for India\u2019s scale",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-12T09:04:07.320206"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.12594",
-        "title": "Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-12T09:04:07.320206"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.12616",
-        "title": "PersonaDrive: Human-Style Retrieval-Augmented VLA Agents for Closed-Loop Driving Simulation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-12T09:04:07.320206"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/06/12/1138899/the-download-reprogramming-reverse-aging-interoception/",
         "title": "The Download: \u201creprogramming\u201d aging, and the hidden sense of interoception",
         "source": "MIT Technology Review AI",
@@ -808,5 +784,29 @@
         "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-19T05:01:54.755502"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
+        "title": "The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-19T10:47:38.720049"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/19/1138778/inevitable-weakness-metrics-quantified-life-book-review/",
+        "title": "The inevitable weakness of metrics",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-19T10:47:38.720049"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/19/1139270/brain-computer-interface-trials-are-taking-off/",
+        "title": "Brain-computer interface trials are taking off",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-19T10:47:38.720049"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.19501",
+        "title": "DeXposure-Claw: An Agentic System for DeFi Risk Supervision",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-19T10:47:38.720049"
     }
 ]

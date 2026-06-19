@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/11/theker-just-raised-85m-to-build-the-factory-robot-that-doesnt-specialize-in-anything/",
-        "title": "Theker just raised $85M to build the factory robot that doesn\u2019t specialize in anything",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-12T04:43:11.846410"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/11/jeff-bezoss-prometheus-raises-12b-to-build-an-artificial-general-engineer-for-the-physical-world/",
-        "title": "Jeff Bezos\u2019s Prometheus raises $12B to build an \u2018artificial general engineer\u2019 for the physical world",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-12T04:43:11.846410"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.12451",
-        "title": "ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-12T04:43:11.846410"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.12563",
-        "title": "Arbor: Tree Search as a Cognition Layer for Autonomous Agents",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-12T04:43:11.846410"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.12587",
-        "title": "Strategic Decision Support for AI Agents",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-12T04:43:11.846410"
-    },
-    {
         "url": "https://openai.com/index/preply",
         "title": "How Preply combines AI and human tutors to personalize learning",
         "source": "OpenAI Blog",
@@ -808,5 +778,35 @@
         "title": "Amazon hopes to challenge Nvidia more directly by selling its AI chips",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-18T23:50:09.855532"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
+        "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-19T05:01:54.755502"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.19464",
+        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-19T05:01:54.755502"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.19469",
+        "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-19T05:01:54.755502"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.19475",
+        "title": "Diffusion Language Models: An Experimental Analysis",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-19T05:01:54.755502"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.19494",
+        "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-19T05:01:54.755502"
     }
 ]

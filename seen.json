@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-        "title": "Meta\u2019s new \u2018AI Mode\u2019 on Facebook pulls from public info across its platforms",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-15T21:14:36.175275"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-        "title": "SpaceX is public: Everything you need to know post-IPO",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-15T21:14:36.175275"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
-        "title": "Why do South Koreans love AI so much?",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-15T21:14:36.175275"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/15/1138953/man-als-first-power-user-brain-implant-speak-bci/",
-        "title": "This man with ALS is \u201cthe first power user\u201d of a brain implant that lets him speak",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-15T21:14:36.175275"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
         "title": "The US government\u2019s Anthropic models ban was never about an AI jailbreak",
         "source": "TechCrunch AI",
@@ -730,5 +706,17 @@
         "title": "Google DeepMind bets $75M on AI\u2019s future in Hollywood with A24 deal",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-22T20:56:09.588063"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+        "title": "Three things to watch amid Anthropic\u2019s latest feud with the government",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-22T22:51:33.035830"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/22/1139385/the-download-rogfast-subsea-tunnel-flexible-data-centers/",
+        "title": "The Download: record-breaking subsea tunnels and flexible data centers",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-22T22:51:33.035830"
     }
 ]

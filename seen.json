@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/introducing-openai-partner-network",
-        "title": "Introducing the OpenAI Partner Network",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-15T05:05:21.336229"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.13682",
-        "title": "A Deep Reinforcement Learning (DRL)-Based Transformer Method for Solving the Open Shop Scheduling Problem",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-15T05:05:21.336229"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.13683",
-        "title": "UP-NRPA: User Portrait based Nested Rollout Policy Adaptation for Planning with Large Language Models in Goal-oriented Dialogue Systems",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-15T05:05:21.336229"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.13703",
-        "title": "History of the Muddy Children Puzzle",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-15T05:05:21.336229"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.13707",
-        "title": "Orchestra-o1: Omnimodal Agent Orchestration",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-15T05:05:21.336229"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
         "title": "A satellite just learned to find things on its own \u2014 here\u2019s what that means",
         "source": "TechCrunch AI",

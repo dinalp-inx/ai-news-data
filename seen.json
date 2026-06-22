@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/15/a-satellite-just-learned-to-find-things-on-its-own-heres-what-that-means/",
-        "title": "A satellite just learned to find things on its own \u2014 here\u2019s what that means",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-15T12:30:57.693646"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/15/the-ai-layoff-wave-is-becoming-a-powder-keg/",
-        "title": "The AI layoff wave is becoming a powder keg",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-15T12:30:57.693646"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/15/1138948/the-download-solid-state-air-conditioning-animal-drugs/",
-        "title": "The Download: cutting AC emissions, and nature\u2019s drug designer",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-15T12:30:57.693646"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
-        "title": "These new solid-state ACs promise a cool future. Scientists aren\u2019t so sure.",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-15T12:30:57.693646"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.13710",
-        "title": "Hybrid Open-Ended Tri-Evolution Makes Better Deep Researcher",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-15T12:30:57.693646"
-    },
-    {
         "url": "https://huggingface.co/blog/openenv-agentic-rl",
         "title": "The Open Source Community is backing OpenEnv for Agentic RL",
         "source": "Hugging Face Blog",
@@ -730,5 +700,35 @@
         "title": "Inside the world\u2019s deepest and longest subsea road tunnel",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-22T12:16:27.502931"
+    },
+    {
+        "url": "https://openai.com/index/patch-the-planet",
+        "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-22T17:43:18.972692"
+    },
+    {
+        "url": "https://openai.com/index/daybreak-securing-the-world",
+        "title": "Daybreak: Tools for securing every organization in the world",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-22T17:43:18.972692"
+    },
+    {
+        "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
+        "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-22T17:43:18.972692"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+        "title": "Amazon is testing Alexa+ in India with Hindi support",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-22T17:43:18.972692"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+        "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-22T17:43:18.972692"
     }
 ]

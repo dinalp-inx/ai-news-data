@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/deployment-simulation",
-        "title": "Predicting model behavior before release by simulating deployment",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-16T21:11:04.644850"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-        "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-16T21:11:04.644850"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/16/android-17-launches-with-new-multitasking-tools-as-google-expands-gemini-features/",
-        "title": "Android 17 launches with new multitasking tools as Google expands Gemini features",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-16T21:11:04.644850"
-    },
-    {
-        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
-        "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-06-16T21:11:04.644850"
-    },
-    {
-        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
-        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-06-16T21:11:04.644850"
-    },
-    {
         "url": "https://huggingface.co/blog/github-ci-hf-jobs",
         "title": "Migrating Your GitHub CI to Hugging Face Jobs",
         "source": "Hugging Face Blog",
@@ -718,5 +688,47 @@
         "title": "Opening a door to mental-health help online",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-23T21:02:54.483307"
+    },
+    {
+        "url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
+        "title": "Google just redesigned the search box for the first time in 25 years \u2014 here\u2019s why it matters more than you think.",
+        "source": "VentureBeat AI",
+        "saved_at": "2026-06-23T23:12:42.887529"
+    },
+    {
+        "url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
+        "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+        "source": "VentureBeat AI",
+        "saved_at": "2026-06-23T23:12:42.887529"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/23/1138214/heads-in-the-game/",
+        "title": "Heads in the game",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-23T23:12:42.887529"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/23/1138262/super-mario-is-mathier-than-you-think/",
+        "title": "Super Mario is mathier than you think",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-23T23:12:42.887529"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/23/1138267/a-man-of-many-words/",
+        "title": "A man of many words",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-23T23:12:42.887529"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/23/1138271/sharing-a-love-for-calculus/",
+        "title": "Sharing a love for calculus",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-23T23:12:42.887529"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/23/1138274/stand-up-for-research-innovation-and-education-6/",
+        "title": "Stand Up for Research, Innovation, and Education",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-23T23:12:42.887529"
     }
 ]

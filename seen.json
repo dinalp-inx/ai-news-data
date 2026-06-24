@@ -712,5 +712,35 @@
         "title": "The emergence of the web data infrastructure layer for AI",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-24T14:45:14.901674"
+    },
+    {
+        "url": "https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel",
+        "title": "Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-24T17:09:40.951047"
+    },
+    {
+        "url": "https://huggingface.co/blog/ffasr-leaderboard",
+        "title": "Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-24T17:09:40.951047"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/24/agility-robotics-plans-to-go-public-via-spac-in-a-2-5b-deal/",
+        "title": "Agility Robotics plans to go public via SPAC in a $2.5B deal",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-24T17:09:40.951047"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/24/figma-adds-code-layers-support-for-animations-more-ai-features-in-new-update/",
+        "title": "Figma adds code layers, support for animations, more AI features in new update",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-24T17:09:40.951047"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "title": "OpenAI unveils its first custom chip, built by Broadcom",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-24T17:09:40.951047"
     }
 ]

@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2606.17209",
-        "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-17T04:50:04.328446"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.17220",
-        "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-17T04:50:04.328446"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.17266",
-        "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-17T04:50:04.328446"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.17269",
-        "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-17T04:50:04.328446"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.17289",
-        "title": "Nothing from Something: Can a Language Model Discover 0?",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-17T04:50:04.328446"
-    },
-    {
         "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
         "title": "GLM-5.2: Built for Long-Horizon Tasks",
         "source": "Hugging Face Blog",
@@ -742,5 +712,11 @@
         "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-24T04:07:42.326796"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.24014",
+        "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-24T08:26:33.527225"
     }
 ]

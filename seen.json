@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/github-ci-hf-jobs",
-        "title": "Migrating Your GitHub CI to Hugging Face Jobs",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-16T23:27:43.059225"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/16/anthropics-latest-feud-with-the-trump-admin-may-actually-help-it-sales-data-suggests/",
-        "title": "Anthropic\u2019s latest feud with the Trump admin may actually help it, sales data suggests",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-16T23:27:43.059225"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/16/1138905/exclusive-ebook-how-ai-is-becoming-the-next-military-advisor/",
-        "title": "Exclusive eBook: How AI is becoming the next military advisor",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-16T23:27:43.059225"
-    },
-    {
         "url": "https://arxiv.org/abs/2606.17209",
         "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
         "source": "ArXiv CS.AI",
@@ -730,5 +712,35 @@
         "title": "Stand Up for Research, Innovation, and Education",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-23T23:12:42.887529"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
+        "title": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-24T04:07:42.326796"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.23927",
+        "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-24T04:07:42.326796"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.23938",
+        "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-24T04:07:42.326796"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.23991",
+        "title": "Critique of Agent Model",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-24T04:07:42.326796"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.24010",
+        "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-24T04:07:42.326796"
     }
 ]

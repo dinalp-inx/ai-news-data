@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
-        "title": "GLM-5.2: Built for Long-Horizon Tasks",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-17T09:54:43.432818"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/17/1138600/entrepreneurs-nairobi-case-for-going-solar/",
-        "title": "Entrepreneurs in Nairobi make the case for going solar",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-17T09:54:43.432818"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/17/1138743/hacking-atmosphere-geoengineering-reality-check/",
-        "title": "Hacking the atmosphere: Geoengineering gets a reality check",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-17T09:54:43.432818"
-    },
-    {
         "url": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
         "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
         "source": "Hugging Face Blog",
@@ -718,5 +700,17 @@
         "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-24T08:26:33.527225"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
+        "title": "This flying solar-powered platform could deliver better internet from the air",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-24T11:50:04.380546"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
+        "title": "All challenges big and small",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-24T11:50:04.380546"
     }
 ]

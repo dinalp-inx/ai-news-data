@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/ai-chemist-improves-reaction",
-        "title": "A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-17T20:22:11.757496"
-    },
-    {
-        "url": "https://techcrunch.com/video/neas-tiffany-luck-says-enterprises-are-still-figuring-out-their-ai-roi/",
-        "title": "NEA\u2019s Tiffany Luck says enterprises are still figuring out their AI ROI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-17T20:22:11.757496"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/17/world-leaders-want-american-ai-they-just-dont-want-america-to-be-able-to-turn-it-off/",
-        "title": "World leaders want American AI. They just don\u2019t want America to be able to turn it off.",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-17T20:22:11.757496"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/17/anthropic-becomes-first-ai-startup-to-join-the-frontier-carbon-removal-coalition/",
-        "title": "Anthropic becomes first AI startup to join the Frontier carbon removal coalition",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-17T20:22:11.757496"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/17/social-medias-next-evolution-user-controlled-algorithms/",
-        "title": "Social media\u2019s next evolution: user-controlled algorithms",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-17T20:22:11.757496"
-    },
-    {
         "url": "https://openai.com/index/introducing-life-sci-bench",
         "title": "Introducing LifeSciBench",
         "source": "OpenAI Blog",
@@ -718,5 +688,11 @@
         "title": "Europe\u2019s extreme heat is shutting down power plants",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-24T19:55:20.151892"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/24/companies-are-scrambling-to-stop-employees-from-maxing-out-ai-budgets-with-small-tasks/",
+        "title": "Companies are scrambling to stop employees from maxing out AI budgets with small tasks",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-24T21:27:27.060736"
     }
 ]

@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
-        "title": "Improving health intelligence in ChatGPT",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-18T18:29:45.922511"
-    },
-    {
-        "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
-        "title": "MosaicLeaks: Can your research agent keep a secret?",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-18T18:29:45.922511"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/18/the-smartphone-era-created-an-attention-crisis-slowtech-is-fixing-it/",
-        "title": "The smartphone era created an attention crisis. Slowtech is fixing it",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-18T18:29:45.922511"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/18/queer-eyes-life-coach-karamo-brown-launches-ke-a-wellness-app-featuring-his-ai-digital-clone/",
-        "title": "\u2018Queer Eye\u2019s\u2019 life coach Karamo Brown launches K\u0113, a wellness app featuring his AI digital clone",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-18T18:29:45.922511"
-    },
-    {
         "url": "https://openai.com/index/chatgpt-enterprise-spend-controls",
         "title": "New usage analytics and updated spend controls for enterprises",
         "source": "OpenAI Blog",
@@ -688,5 +664,11 @@
         "title": "Repositioning retail for the AI era",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-25T17:18:30.057400"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+        "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-25T20:10:20.193467"
     }
 ]

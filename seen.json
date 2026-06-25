@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/torch-mlp-fusion",
-        "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-18T11:15:00.314679"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/18/1139227/geoengineering-engineering-challenges/",
-        "title": "Geoengineering still faces major practical challenges",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-18T11:15:00.314679"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/18/1138755/search-for-dark-matter-blown-wide-open/",
-        "title": "The search for dark matter has been blown wide open",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-18T11:15:00.314679"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.18557",
-        "title": "DeFAb: A Verifiable Benchmark for Defeasible Abduction in Foundation Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-18T11:15:00.314679"
-    },
-    {
         "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
         "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
         "source": "OpenAI Blog",
@@ -682,5 +658,23 @@
         "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-25T04:07:55.677142"
+    },
+    {
+        "url": "https://openai.com/index/how-agents-are-transforming-work",
+        "title": "How agents are transforming work",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-25T11:44:05.568420"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
+        "title": "What Europe\u2019s heat wave means for the power grid",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-25T11:44:05.568420"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
+        "title": "IBM has unveiled chip technology that could help extend Moore\u2019s Law another decade",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-25T11:44:05.568420"
     }
 ]

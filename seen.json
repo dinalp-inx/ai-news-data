@@ -1,47 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/diagnose-rare-childhood-diseases",
-        "title": "Using AI to help physicians diagnose rare genetic diseases affecting children",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-18T15:39:58.554523"
-    },
-    {
-        "url": "https://huggingface.co/blog/peft-beyond-lora",
-        "title": "Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-18T15:39:58.554523"
-    },
-    {
-        "url": "https://huggingface.co/blog/is-it-agentic-enough",
-        "title": "Is it agentic enough? Benchmarking open models on your own tooling",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-18T15:39:58.554523"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/18/general-intuition-in-talks-to-raise-300m-at-around-2b-valuation/",
-        "title": "General Intuition in talks to raise $300M at around $2B valuation",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-18T15:39:58.554523"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/18/a-tech-worker-backed-pac-is-bringing-a-5m-knife-to-big-techs-100m-gunfight/",
-        "title": "A tech worker-backed PAC is bringing a $5M knife to Big Tech\u2019s $100M gunfight",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-18T15:39:58.554523"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/18/pixis-new-ios-app-turns-text-messages-into-interactive-ar-experiences/",
-        "title": "Pixi\u2019s new iOS app turns text messages into interactive AR experiences",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-18T15:39:58.554523"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/18/1139261/the-download-dark-matter-hunt-kenya-solar-power/",
-        "title": "The Download: a new hunt for dark matter and Kenya\u2019s case for going solar",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-18T15:39:58.554523"
-    },
-    {
         "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
         "title": "Improving health intelligence in ChatGPT",
         "source": "OpenAI Blog",
@@ -700,5 +658,35 @@
         "title": "The Download: Europe\u2019s heat wave hits the grid, and IBM\u2019s chip targets Moore\u2019s Law",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-25T14:44:23.689626"
+    },
+    {
+        "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
+        "title": "Which tokens does a hybrid model predict better?",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-25T17:18:30.057400"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
+        "title": "General Intuition\u2019s $2.3B bet that video games can train AI agents for the real world",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-25T17:18:30.057400"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
+        "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-25T17:18:30.057400"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+        "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-25T17:18:30.057400"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+        "title": "Repositioning retail for the AI era",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-25T17:18:30.057400"
     }
 ]

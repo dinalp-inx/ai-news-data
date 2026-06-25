@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/17/how-to-turn-off-ai-in-your-google-docs/",
-        "title": "How to turn off AI in your Google Docs",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-18T06:00:28.458251"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.18271",
-        "title": "NAVI-Orbital: First In-Orbit Demonstration of a Zero-Shot Vision-Language Model for Autonomous Earth Observation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-18T06:00:28.458251"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.18385",
-        "title": "CaVe-VLM-CoT: An Interpretable Vision-Language Model Framework",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-18T06:00:28.458251"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.18413",
-        "title": "Searching for Synergy in Shared Workspace Human-AI Collaboration",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-18T06:00:28.458251"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.18543",
-        "title": "CEO-Bench: Can Agents Play the Long Game?",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-18T06:00:28.458251"
-    },
-    {
         "url": "https://huggingface.co/blog/torch-mlp-fusion",
         "title": "Profiling in PyTorch (Part 2): From nn.Linear to a Fused MLP",
         "source": "Hugging Face Blog",

@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
-        "title": "The CEO of Allbirds\u2019 new AI biz has a plan, but no employees",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-19T14:15:45.748028"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/19/1139327/the-download-llms-bottleneck-breakthrough-bci-trials-take-off/",
-        "title": "The Download: AI bottleneck debates, and BCI trials take off",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-19T14:15:45.748028"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-        "title": "A startup claims it broke through a bottleneck that\u2019s holding back LLMs",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-19T14:15:45.748028"
-    },
-    {
         "url": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
         "title": "Is the US government\u2019s Anthropic ban accidentally helping the brand?",
         "source": "TechCrunch AI",
@@ -634,5 +616,17 @@
         "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-26T09:39:14.195416"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
+        "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-26T15:27:00.737691"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/26/1139780/the-download-heatwaves-brain-health-openai-restrictions/",
+        "title": "The Download: brain-melting heatwaves and unprecedented OpenAI restrictions",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-26T15:27:00.737691"
     }
 ]

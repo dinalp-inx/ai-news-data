@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
-        "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-19T05:01:54.755502"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.19464",
-        "title": "Deontic Policies for Runtime Governance of Agentic AI Systems",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-19T05:01:54.755502"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.19469",
-        "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-19T05:01:54.755502"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.19475",
-        "title": "Diffusion Language Models: An Experimental Analysis",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-19T05:01:54.755502"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.19494",
-        "title": "Hidden Anchors in Multi-Agent LLM Deliberation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-19T05:01:54.755502"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
         "title": "The US says ASML\u2019s top chip tool may be in China. ASML says it isn\u2019t",
         "source": "TechCrunch AI",
@@ -652,5 +622,35 @@
         "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-26T00:15:52.607853"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.26155",
+        "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-26T05:13:58.808837"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.26158",
+        "title": "Life After Benchmark Saturation: A Case Study of CORE-Bench",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-26T05:13:58.808837"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.26161",
+        "title": "Refusal Lives Downstream of Persona in Chat Models",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-26T05:13:58.808837"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.26173",
+        "title": "AlgoEvolve: LLM-driven Meta-evolution of Algorithmic Trading Programs",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-26T05:13:58.808837"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.26203",
+        "title": "Agentic Analysis for Agentic Infrastructure: An LLM-Powered Pipeline for Comparative Governance of DAO and Corporate AI Protocols",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-26T05:13:58.808837"
     }
 ]

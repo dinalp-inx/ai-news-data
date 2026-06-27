@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
-        "title": "In the Weights is your new AI-centric vanity search",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-20T20:19:46.660991"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
         "title": "Signal\u2019s Meredith Whittaker wants you to remember that AI chatbots \u2018are not your friends\u2019",
         "source": "TechCrunch AI",
@@ -658,5 +652,11 @@
         "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-27T18:09:43.155675"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+        "title": "SoftBank\u2019s CEO isn\u2019t the only one with questions about Elon Musk\u2019s orbital data center hype",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-27T22:08:24.616588"
     }
 ]

@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-        "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-21T23:21:32.839381"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/06/22/1138821/inside-worlds-deepest-longest-subsea-road-tunnel/",
         "title": "Inside the world\u2019s deepest and longest subsea road tunnel",
         "source": "MIT Technology Review AI",
@@ -652,5 +646,11 @@
         "title": "Ford rehires \u2018gray beard\u2019 engineers after AI falls short",
         "source": "TechCrunch AI",
         "saved_at": "2026-06-28T20:17:32.668927"
+    },
+    {
+        "url": "https://openai.com/index/hp-frontier-partnership",
+        "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-06-29T00:13:52.490435"
     }
 ]

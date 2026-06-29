@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/patch-the-planet",
-        "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-22T17:43:18.972692"
-    },
-    {
-        "url": "https://openai.com/index/daybreak-securing-the-world",
-        "title": "Daybreak: Tools for securing every organization in the world",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-22T17:43:18.972692"
-    },
-    {
-        "url": "https://huggingface.co/blog/PaddlePaddle/pp-ocrv6",
-        "title": "PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-22T17:43:18.972692"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
-        "title": "Amazon is testing Alexa+ in India with Hindi support",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-22T17:43:18.972692"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
-        "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-22T17:43:18.972692"
-    },
-    {
         "url": "https://openai.com/index/codex-maxxing-long-running-work",
         "title": "Codex-maxxing for long-running work",
         "source": "OpenAI Blog",
@@ -706,5 +676,41 @@
         "title": "The Download: metric weaknesses and AI elephant warnings",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-29T15:58:03.346165"
+    },
+    {
+        "url": "https://huggingface.co/blog/allenai/discoformer",
+        "title": "DiScoFormer: One transformer for density and score, across distributions",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-06-29T18:18:12.892553"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+        "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-29T18:18:12.892553"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+        "title": "South Korean tech giants commit over $550B to ease \u2018\u00a0RAMageddon\u2019",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-29T18:18:12.892553"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+        "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-29T18:18:12.892553"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/29/cursor-now-has-a-mobile-app-for-guiding-your-coding-agent-on-the-go/",
+        "title": "Cursor now has a mobile app for guiding your coding agent on the go",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-29T18:18:12.892553"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/29/tidal-cracks-down-on-ai-music-by-cutting-off-monetization/",
+        "title": "TIDAL cracks down on AI music by cutting off monetization",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-29T18:18:12.892553"
     }
 ]

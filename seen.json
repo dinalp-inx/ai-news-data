@@ -700,5 +700,23 @@
         "title": "GPTNT: Benchmarking Real-Time Collaboration Between Multimodal Agents on Keep Talking And Nobody Explodes",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-30T05:10:08.067123"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/30/crypto-exchange-okx-wants-ai-agents-to-hire-and-pay-each-other/",
+        "title": "Crypto exchange OKX wants AI agents to hire and pay each other",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-06-30T09:52:18.809340"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.28556",
+        "title": "IMCBench: A benchmark for multimodal LLMs in Image-grounded Medical Conversations",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-30T09:52:18.809340"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.28589",
+        "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-06-30T09:52:18.809340"
     }
 ]

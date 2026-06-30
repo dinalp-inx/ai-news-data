@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/omio",
-        "title": "How Omio is building the future of conversational travel",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-23T09:54:55.831646"
-    },
-    {
-        "url": "https://huggingface.co/blog/huggingface-hub-release-ci",
-        "title": "Shipping huggingface_hub every week with AI, open tools, and a human in the loop",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-23T09:54:55.831646"
-    },
-    {
-        "url": "https://huggingface.co/blog/local-models-pr-triage",
-        "title": "We got local models to triage the OpenClaw repo for FREE!*",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-23T09:54:55.831646"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/23/1138562/elephant-alert-ai-warning-systems-avoid-deadly-clashes-india/",
-        "title": "Elephant alert! AI warning systems aim to avoid deadly clashes",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-23T09:54:55.831646"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/23/1138837/asml-400-million-dollar-machine-powering-future-of-chipmaking/",
-        "title": "The $400 million machine powering the future of chipmaking",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-23T09:54:55.831646"
-    },
-    {
         "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
         "title": "Generative AI to quantify uncertainty in weather forecasting",
         "source": "Google AI Blog",
@@ -718,5 +688,17 @@
         "title": "Search for Truth from Reasoning: A Dynamic Representation Editing Framework for Steering LLM Trajectories",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-06-30T09:52:18.809340"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
+        "title": "Agriculture is ready for AI, but its data isn\u2019t",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-30T12:15:26.045560"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
+        "title": "Building tech in the world\u2019s secret R&D hub",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-30T12:15:26.045560"
     }
 ]

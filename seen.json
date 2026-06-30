@@ -1,35 +1,5 @@
 [
     {
-        "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-        "title": "Generative AI to quantify uncertainty in weather forecasting",
-        "source": "Google AI Blog",
-        "saved_at": "2026-06-23T12:39:02.620921"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-        "source": "Google AI Blog",
-        "saved_at": "2026-06-23T12:39:02.620921"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-        "title": "Computer-aided diagnosis for lung cancer screening",
-        "source": "Google AI Blog",
-        "saved_at": "2026-06-23T12:39:02.620921"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-        "title": "Using AI to expand global access to reliable flood forecasts",
-        "source": "Google AI Blog",
-        "saved_at": "2026-06-23T12:39:02.620921"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-        "source": "Google AI Blog",
-        "saved_at": "2026-06-23T12:39:02.620921"
-    },
-    {
         "url": "https://huggingface.co/blog/ibm-research/cuga-apps",
         "title": "Build real agentic apps using CUGA: two dozen working examples on a lightweight harness",
         "source": "Hugging Face Blog",
@@ -700,5 +670,41 @@
         "title": "Building tech in the world\u2019s secret R&D hub",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-06-30T12:15:26.045560"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "source": "Google AI Blog",
+        "saved_at": "2026-06-30T15:35:23.353111"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "source": "Google AI Blog",
+        "saved_at": "2026-06-30T15:35:23.353111"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "source": "Google AI Blog",
+        "saved_at": "2026-06-30T15:35:23.353111"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "source": "Google AI Blog",
+        "saved_at": "2026-06-30T15:35:23.353111"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "source": "Google AI Blog",
+        "saved_at": "2026-06-30T15:35:23.353111"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
+        "title": "The Download: AI \u201ccoworkers\u201d and stratospheric internet",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-06-30T15:35:23.353111"
     }
 ]

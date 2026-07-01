@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/23/indias-moengage-bets-marketings-future-on-millions-of-ai-agents/",
-        "title": "India\u2019s MoEngage bets that the future of marketing is millions of AI agents",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-24T04:07:42.326796"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.23927",
-        "title": "RIFT-Bench: Dynamic Red-teaming For Agentic AI Systems",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-24T04:07:42.326796"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.23938",
-        "title": "Neuro-Symbolic Drive: Rule-Grounded Faithful Reasoning for Driving VLAs",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-24T04:07:42.326796"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.23991",
-        "title": "Critique of Agent Model",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-24T04:07:42.326796"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.24010",
-        "title": "Safe and Generalizable Hierarchical Multi-Agent RL via Constraint Manifold Control",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-24T04:07:42.326796"
-    },
-    {
         "url": "https://arxiv.org/abs/2606.24014",
         "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
         "source": "ArXiv CS.AI",
@@ -712,5 +682,35 @@
         "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
         "source": "VentureBeat AI",
         "saved_at": "2026-07-01T00:14:06.486878"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+        "title": "The \u201cFather of the Internet\u201d is finally retiring",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-01T05:27:25.582390"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
+        "title": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-01T05:27:25.582390"
+    },
+    {
+        "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
+        "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-01T05:27:25.582390"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.30774",
+        "title": "What Drives Interactive Improvement from Feedback?",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-01T05:27:25.582390"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.30840",
+        "title": "Contrastive Reflection for Iterative Prompt Optimization",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-01T05:27:25.582390"
     }
 ]

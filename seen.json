@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2606.24014",
-        "title": "Reinforcement Learning Towards Broadly and Persistently Beneficial Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-24T08:26:33.527225"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
         "title": "This flying solar-powered platform could deliver better internet from the air",
         "source": "MIT Technology Review AI",
@@ -712,5 +706,23 @@
         "title": "Contrastive Reflection for Iterative Prompt Optimization",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-01T05:27:25.582390"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.30846",
+        "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-01T10:00:51.318703"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.30850",
+        "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-01T10:00:51.318703"
+    },
+    {
+        "url": "https://arxiv.org/abs/2606.30852",
+        "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-01T10:00:51.318703"
     }
 ]

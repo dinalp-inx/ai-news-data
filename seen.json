@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/06/24/1138771/solar-powered-platform-delivers-better-internet/",
-        "title": "This flying solar-powered platform could deliver better internet from the air",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-24T11:50:04.380546"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/24/1138853/editors-letter-july-2026/",
-        "title": "All challenges big and small",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-24T11:50:04.380546"
-    },
-    {
         "url": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
         "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
         "source": "OpenAI Blog",
@@ -724,5 +712,11 @@
         "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-01T10:00:51.318703"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
+        "title": "The Download: Anthropic launches Claude Science, and California\u2019s carbon manure math",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-01T13:36:08.720767"
     }
 ]

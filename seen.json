@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-        "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-25T20:10:20.193467"
-    },
-    {
         "url": "https://huggingface.co/blog/vllm-jobs",
         "title": "Run a vLLM Server on HF Jobs in One Command",
         "source": "Hugging Face Blog",
@@ -670,5 +664,17 @@
         "title": "Anthropic is discussing a new custom chip with Samsung",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-02T18:39:51.802289"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
+        "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-02T20:22:54.872172"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
+        "title": "Meta quietly launches vibe-coded gaming app Pocket",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-02T20:22:54.872172"
     }
 ]

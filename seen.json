@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
-        "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-25T14:44:23.689626"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/25/adobe-acquires-image-and-video-enhancement-tool-maker-topaz-labs/",
-        "title": "Adobe acquires image and video enhancement tool maker Topaz Labs",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-25T14:44:23.689626"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-        "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-25T14:44:23.689626"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/25/1139738/the-download-europe-heat-wave-ibm-chip-moores-law/",
-        "title": "The Download: Europe\u2019s heat wave hits the grid, and IBM\u2019s chip targets Moore\u2019s Law",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-25T14:44:23.689626"
-    },
-    {
         "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
         "title": "Which tokens does a hybrid model predict better?",
         "source": "Hugging Face Blog",
@@ -706,5 +682,17 @@
         "title": "The Download: a startup has a solution for AI\u2019s groupthink problem",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-02T14:17:34.194107"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/02/openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund/",
+        "title": "OpenAI proposed donating 5% of its equity to a US sovereign wealth fund",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-02T16:54:47.660944"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+        "title": "Achieving operational excellence with AI",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-02T16:54:47.660944"
     }
 ]

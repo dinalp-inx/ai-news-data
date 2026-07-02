@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/24/europe-is-pushing-back-on-washingtons-chip-war/",
-        "title": "Europe is pushing back on Washington\u2019s chip war",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-25T04:07:55.677142"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/24/former-infosys-chief-has-a-new-startup-that-wants-to-challenge-the-it-services-world/",
-        "title": "Former Infosys chief has a new startup that wants to challenge the IT services world",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-25T04:07:55.677142"
-    },
-    {
         "url": "https://openai.com/index/how-agents-are-transforming-work",
         "title": "How agents are transforming work",
         "source": "OpenAI Blog",
@@ -700,5 +688,11 @@
         "title": "Solution space path planning for supporting en-route air traffic control",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-02T04:04:48.490984"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
+        "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-02T08:15:14.833946"
     }
 ]

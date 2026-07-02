@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/how-agents-are-transforming-work",
-        "title": "How agents are transforming work",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-25T11:44:05.568420"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/25/1139690/europe-heat-wave-grid/",
-        "title": "What Europe\u2019s heat wave means for the power grid",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-25T11:44:05.568420"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/25/1139696/ibm-unveils-sub1nm-chip/",
-        "title": "IBM has unveiled chip technology that could help extend Moore\u2019s Law another decade",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-25T11:44:05.568420"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/25/2-days-left-to-save-up-to-190-join-1000-founders-and-investors-at-techcrunch-founder-summit/",
         "title": "2 days left to save up to $190: Join 1,000+ founders and investors at TechCrunch Founder Summit",
         "source": "TechCrunch AI",
@@ -700,5 +682,29 @@
         "title": "Why California\u2019s carbon manure math doesn\u2019t add up",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-02T11:38:26.127757"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/02/microsoft-launches-its-own-ai-deployment-company-with-2-5-billion-commitment/",
+        "title": "Microsoft launches its own AI deployment company with $2.5 billion commitment",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-02T14:17:34.194107"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/02/yep-were-using-openclaw-to-date-now/",
+        "title": "Yep, we\u2019re using OpenClaw to date now",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-02T14:17:34.194107"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+        "title": "Teaching AI to run with the turbines",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-02T14:17:34.194107"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+        "title": "The Download: a startup has a solution for AI\u2019s groupthink problem",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-02T14:17:34.194107"
     }
 ]

@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/allenai/hybrid-token-prediction",
-        "title": "Which tokens does a hybrid model predict better?",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-25T17:18:30.057400"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-        "title": "General Intuition\u2019s $2.3B bet that video games can train AI agents for the real world",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-25T17:18:30.057400"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/25/databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x/",
-        "title": "Databricks\u2019 former AI chief thinks he can cut AI\u2019s power bill by 1,000x",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-25T17:18:30.057400"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
-        "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-25T17:18:30.057400"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-        "title": "Repositioning retail for the AI era",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-25T17:18:30.057400"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
         "title": "Anthropic\u2019s Claude is winning over paid consumers, a market owned by ChatGPT",
         "source": "TechCrunch AI",
@@ -694,5 +664,11 @@
         "title": "Achieving operational excellence with AI",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-02T16:54:47.660944"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
+        "title": "Anthropic is discussing a new custom chip with Samsung",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-02T18:39:51.802289"
     }
 ]

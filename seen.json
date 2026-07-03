@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/06/26/1139760/heat-waves-mess-with-your-brain-scientists-are-trying-to-figure-out-why/",
-        "title": "Heat waves mess with your brain. Scientists are trying to figure out why.",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-26T09:39:14.195416"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/26/early-bird-pricing-ends-tonight-for-techcrunch-founder-summit/",
         "title": "Early Bird pricing ends tonight for TechCrunch Founder Summit",
         "source": "TechCrunch AI",
@@ -664,5 +658,11 @@
         "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-03T04:47:38.394374"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+        "title": "The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway.",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-03T11:36:55.740793"
     }
 ]

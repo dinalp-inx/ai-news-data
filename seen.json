@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/vllm-jobs",
-        "title": "Run a vLLM Server on HF Jobs in One Command",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-25T22:24:53.260558"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
-        "title": "Patronus AI lands $50M to build \u2018digital worlds\u2019 that stress-test AI agents",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-25T22:24:53.260558"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
         "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
         "source": "TechCrunch AI",
@@ -676,5 +664,11 @@
         "title": "Meta quietly launches vibe-coded gaming app Pocket",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-02T20:22:54.872172"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+        "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-03T00:12:08.679810"
     }
 ]

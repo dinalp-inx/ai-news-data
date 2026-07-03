@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/previewing-gpt-5-6-sol",
-        "title": "Previewing GPT-5.6 Sol: a next-generation model",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-26T17:56:06.001472"
-    },
-    {
-        "url": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
-        "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-26T17:56:06.001472"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-        "title": "It\u2019s not about Anthropic vs. OpenAI anymore",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-26T17:56:06.001472"
-    },
-    {
-        "url": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-        "title": "OpenAI\u2019s Jalape\u00f1o chip is Big Tech\u2019s spiciest move away from Nvidia",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-26T17:56:06.001472"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
         "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn\u2019t be the norm",
         "source": "TechCrunch AI",
@@ -658,5 +634,11 @@
         "title": "The Download: a smoking \u201cendgame\u201d and a new Elizabeth Bear story",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-03T14:22:32.527161"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+        "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-03T18:16:48.476482"
     }
 ]

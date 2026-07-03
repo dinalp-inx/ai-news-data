@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/25/the-white-house-is-asking-openai-to-slow-roll-the-release-of-its-new-model-over-safety-concerns/",
-        "title": "The White House is asking OpenAI to slow roll the release of its new model over safety concerns",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-26T00:15:52.607853"
-    },
-    {
         "url": "https://arxiv.org/abs/2606.26155",
         "title": "Detecting and Controlling Sycophancy with Cascading Linear Features",
         "source": "ArXiv CS.AI",
@@ -670,5 +664,35 @@
         "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-03T00:12:08.679810"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.01306",
+        "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-03T04:47:38.394374"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.01366",
+        "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-03T04:47:38.394374"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.01394",
+        "title": "The Wiola Architecture for Efficient Small Language Models",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-03T04:47:38.394374"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.01425",
+        "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-03T04:47:38.394374"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.01426",
+        "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-03T04:47:38.394374"
     }
 ]

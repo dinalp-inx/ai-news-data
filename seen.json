@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/hp-frontier-partnership",
-        "title": "HP Inc. launches Frontier strategic partnership with OpenAI",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-29T00:13:52.490435"
-    },
-    {
         "url": "https://arxiv.org/abs/2606.27382",
         "title": "AI-Model Network: Concept, Current State and Future",
         "source": "ArXiv CS.AI",
@@ -628,5 +622,11 @@
         "title": "Amazon will stop accepting new customers for Mechanical Turk",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-05T19:26:36.633081"
+    },
+    {
+        "url": "https://huggingface.co/blog/revamped-kernels",
+        "title": "\ud83e\udd17 Kernels: Major Updates",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-06T04:08:35.734561"
     }
 ]

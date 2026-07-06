@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2606.27382",
-        "title": "AI-Model Network: Concept, Current State and Future",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-29T05:55:55.364155"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.27443",
-        "title": "When Does Personality Composition Matter for Multi-Agent LLM Teams?",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-29T05:55:55.364155"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.27483",
-        "title": "Internalizing the Future: A Unified Agentic Training Paradigm for World Model Planning",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-29T05:55:55.364155"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.27593",
-        "title": "Odyssey: Constructing Verifiable Local Truth-Preserving Foundation Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-29T05:55:55.364155"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.27619",
-        "title": "DysLexLens: A Low-Resource LLM Framework for Analysing Dyslexic Learners Insights from Online Forums",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-06-29T05:55:55.364155"
-    },
-    {
         "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
         "title": "Mapping Europe\u2019s AI Workforce Opportunity",
         "source": "OpenAI Blog",

@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-        "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-29T11:18:07.304928"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
         "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
         "source": "TechCrunch AI",
@@ -598,5 +592,35 @@
         "title": "\ud83e\udd17 Kernels: Major Updates",
         "source": "Hugging Face Blog",
         "saved_at": "2026-07-06T04:08:35.734561"
+    },
+    {
+        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+        "title": "Mapping Europe\u2019s AI Workforce Opportunity",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-06T13:52:09.928336"
+    },
+    {
+        "url": "https://huggingface.co/blog/lerobot-release-v060",
+        "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-06T13:52:09.928336"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+        "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-06T13:52:09.928336"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
+        "title": "The Download: South Korea\u2019s hottest bachelors, and advancing eye transplants",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-06T13:52:09.928336"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
+        "title": "South Korea\u2019s hottest new bachelors are chip workers",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-06T13:52:09.928336"
     }
 ]

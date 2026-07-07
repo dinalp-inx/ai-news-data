@@ -1,59 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/ibm-research/scarfbench",
-        "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-30T21:00:12.587518"
-    },
-    {
-        "url": "https://huggingface.co/blog/eee-community-evals",
-        "title": "Featuring Every Eval Ever Results on Hugging Face Model Pages",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-30T21:00:12.587518"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/30/the-deepmind-trio-who-built-a-poker-ai-are-now-making-money-for-quant-hedge-funds/",
-        "title": "The DeepMind trio who built a poker AI are now making money for quant hedge funds",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-30T21:00:12.587518"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/30/google-introduces-a-faster-cheaper-image-generator-with-nano-banana-2-lite/",
-        "title": "Google introduces a faster, cheaper image generator with Nano Banana 2 Lite",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-30T21:00:12.587518"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/30/nvidia-competitor-etched-hits-5b-valuation-1b-in-sales-for-ai-chip/",
-        "title": "Nvidia competitor Etched hits $5B valuation, $1B in sales for AI chip",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-30T21:00:12.587518"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/30/anthropic-launches-claude-sonnet-5-as-a-cheaper-way-to-run-agents/",
-        "title": "Anthropic launches Claude Sonnet 5 as a cheaper way to run agents",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-30T21:00:12.587518"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/30/acti-puts-ai-agents-directly-into-your-smartphone-keyboard/",
-        "title": "Acti puts AI agents directly into your smartphone keyboard",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-06-30T21:00:12.587518"
-    },
-    {
-        "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
-        "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-06-30T21:00:12.587518"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/30/1139958/roundtables-longevitys-next-frontier-reprogramming-your-body/",
-        "title": "Roundtables: Longevity\u2019s Next Frontier: \u201cReprogramming\u201d Your Body",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-30T21:00:12.587518"
-    },
-    {
         "url": "https://techcrunch.com/2026/06/30/openclaw-is-finally-available-on-android-and-ios/",
         "title": "OpenClaw is finally available on Android and iOS",
         "source": "TechCrunch AI",
@@ -640,5 +586,17 @@
         "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-07T20:04:58.862899"
+    },
+    {
+        "url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
+        "title": "From Hugging Face to Amazon SageMaker Studio in one click",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-07T22:15:44.865629"
+    },
+    {
+        "url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
+        "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
+        "source": "VentureBeat AI",
+        "saved_at": "2026-07-07T22:15:44.865629"
     }
 ]

@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
-        "title": "How ChatGPT adoption has expanded",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-30T18:03:32.183199"
-    },
-    {
-        "url": "https://openai.com/index/introducing-genebench-pro",
-        "title": "Introducing GeneBench-Pro",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-30T18:03:32.183199"
-    },
-    {
-        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
-        "title": "Core dump epidemiology: fixing an 18-year-old bug",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-30T18:03:32.183199"
-    },
-    {
-        "url": "https://openai.com/index/genebench-pro/case-studies",
-        "title": "Inside Genebench-Pro",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-06-30T18:03:32.183199"
-    },
-    {
-        "url": "https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable",
-        "title": "Why Specialization Is Inevitable",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-06-30T18:03:32.183199"
-    },
-    {
         "url": "https://huggingface.co/blog/ibm-research/scarfbench",
         "title": "ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration",
         "source": "Hugging Face Blog",
@@ -616,5 +586,59 @@
         "title": "Claude Cowork expands to mobile and web",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-07T17:23:27.531182"
+    },
+    {
+        "url": "https://openai.com/index/australian-payments-plus",
+        "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-07T20:04:58.862899"
+    },
+    {
+        "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
+        "title": "How ChatGPT adoption has expanded",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-07T20:04:58.862899"
+    },
+    {
+        "url": "https://openai.com/index/genebench-pro/case-studies",
+        "title": "Inside Genebench-Pro",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-07T20:04:58.862899"
+    },
+    {
+        "url": "https://openai.com/index/core-dump-epidemiology-data-infrastructure-bug",
+        "title": "Core dump epidemiology: fixing an 18-year-old bug",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-07T20:04:58.862899"
+    },
+    {
+        "url": "https://openai.com/index/introducing-genebench-pro",
+        "title": "Introducing GeneBench-Pro",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-07T20:04:58.862899"
+    },
+    {
+        "url": "https://huggingface.co/blog/skypilot-hf-storage",
+        "title": "Run AI workloads on any cloud, store on Hugging Face: zero-egress storage with SkyPilot",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-07T20:04:58.862899"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/07/why-the-rise-of-open-source-ai-isnt-hurting-anthropic-yet/",
+        "title": "Why the rise of open source AI isn\u2019t hurting Anthropic \u2026 yet",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-07T20:04:58.862899"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/07/microsoft-joins-ai-cost-cutting-trend-by-relying-more-on-its-own-models/",
+        "title": "Microsoft joins AI cost-cutting trend by relying more on its own models",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-07T20:04:58.862899"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/07/discord-admits-ai-moderation-bug-wrongfully-banned-users-over-harmless-images/",
+        "title": "Discord admits AI moderation bug wrongfully banned users over harmless images",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-07T20:04:58.862899"
     }
 ]

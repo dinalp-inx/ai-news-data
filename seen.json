@@ -1,41 +1,5 @@
 [
     {
-        "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-        "title": "Generative AI to quantify uncertainty in weather forecasting",
-        "source": "Google AI Blog",
-        "saved_at": "2026-06-30T15:35:23.353111"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-        "source": "Google AI Blog",
-        "saved_at": "2026-06-30T15:35:23.353111"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-        "title": "Computer-aided diagnosis for lung cancer screening",
-        "source": "Google AI Blog",
-        "saved_at": "2026-06-30T15:35:23.353111"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-        "title": "Using AI to expand global access to reliable flood forecasts",
-        "source": "Google AI Blog",
-        "saved_at": "2026-06-30T15:35:23.353111"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-        "source": "Google AI Blog",
-        "saved_at": "2026-06-30T15:35:23.353111"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/30/1139954/the-download-ai-agents-coworkers-solar-powered-internet/",
-        "title": "The Download: AI \u201ccoworkers\u201d and stratospheric internet",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-30T15:35:23.353111"
-    },
-    {
         "url": "https://openai.com/index/how-chatgpt-adoption-has-expanded",
         "title": "How ChatGPT adoption has expanded",
         "source": "OpenAI Blog",
@@ -610,5 +574,47 @@
         "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-07T14:56:32.278244"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-07T17:23:27.531182"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-07T17:23:27.531182"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-07T17:23:27.531182"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-07T17:23:27.531182"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-07T17:23:27.531182"
+    },
+    {
+        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+        "title": "Hugging Face Models on Foundry Managed Compute",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-07T17:23:27.531182"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
+        "title": "Claude Cowork expands to mobile and web",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-07T17:23:27.531182"
     }
 ]

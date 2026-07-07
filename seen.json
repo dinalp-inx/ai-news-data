@@ -610,5 +610,35 @@
         "title": "US investors will soon get access to SK Hynix, another memory maker riding the AI boom",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-07T00:14:38.798589"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.02542",
+        "title": "iFLYTEK-Embodied-Omni Technical Report",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-07T04:58:13.345381"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.02672",
+        "title": "Internal Pluralism and the Limits of Pairwise Comparisons",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-07T04:58:13.345381"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.02686",
+        "title": "ASK in the Dark: Uncertainty-Gated LLM Assistance under Partial Observability",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-07T04:58:13.345381"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.02771",
+        "title": "Automated Data Readiness for Scientific AI",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-07T04:58:13.345381"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.02807",
+        "title": "SwarmResearch: Orchestrating Coding Agents for Open-Ended Discovery",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-07T04:58:13.345381"
     }
 ]

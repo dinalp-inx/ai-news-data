@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/06/30/1139513/agriculture-is-ready-for-ai-but-its-data-isnt/",
-        "title": "Agriculture is ready for AI, but its data isn\u2019t",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-30T12:15:26.045560"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/06/30/1139661/building-tech-in-the-worlds-secret-rd-hub/",
-        "title": "Building tech in the world\u2019s secret R&D hub",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-06-30T12:15:26.045560"
-    },
-    {
         "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
         "title": "Generative AI to quantify uncertainty in weather forecasting",
         "source": "Google AI Blog",
@@ -610,5 +598,17 @@
         "title": "Why worms (and microbes) are catching on as a manure pollution solution",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-07T11:57:21.667578"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
+        "title": "Savi\u2019s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-07T14:56:32.278244"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
+        "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-07T14:56:32.278244"
     }
 ]

@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-        "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-01T16:29:59.081606"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/01/venice-ai-becomes-a-unicorn-with-65m-series-a-as-its-privacy-first-ai-platform-takes-off/",
-        "title": "Venice AI becomes a unicorn with $65M Series A as its privacy-first AI platform takes off",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-01T16:29:59.081606"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/01/gemini-spark-googles-agentic-assistant-is-now-available-on-mac/",
-        "title": "Gemini Spark, Google\u2019s agentic assistant, is now available on Mac",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-01T16:29:59.081606"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/01/builders-stage-agenda-revealed-practical-strategies-for-scaling-startups-at-techcrunch-disrupt-2026/",
-        "title": "Builders Stage agenda revealed: Practical strategies for scaling startups at TechCrunch Disrupt 2026",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-01T16:29:59.081606"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-        "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-01T16:29:59.081606"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/01/spacex-has-an-ai-device-prototype-and-it-sure-sounds-phone-ish/",
         "title": "SpaceX has an AI device prototype, and it sure sounds phone-ish",
         "source": "TechCrunch AI",
@@ -598,5 +568,41 @@
         "title": "The Download: worms fight pollution, and geoengineering faces reality",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-08T15:26:25.911882"
+    },
+    {
+        "url": "https://openai.com/index/k-12-educators-practical-skills",
+        "title": "Helping K\u201312 educators build practical AI skills",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-08T17:44:13.785592"
+    },
+    {
+        "url": "https://openai.com/index/introducing-gpt-live",
+        "title": "Introducing GPT-Live",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-08T17:44:13.785592"
+    },
+    {
+        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
+        "title": "Data for Agents",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-08T17:44:13.785592"
+    },
+    {
+        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+        "title": "Native-speed vLLM transformers modeling backend",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-08T17:44:13.785592"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
+        "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-08T17:44:13.785592"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
+        "title": "OpenAI releases new voice models for more natural live conversations",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-08T17:44:13.785592"
     }
 ]

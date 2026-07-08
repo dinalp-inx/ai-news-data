@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
-        "title": "The \u201cFather of the Internet\u201d is finally retiring",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-01T05:27:25.582390"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/30/trump-drops-restrictions-on-anthropics-mythos-and-fable-models/",
-        "title": "Trump drops restrictions on Anthropic\u2019s Mythos and Fable models",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-01T05:27:25.582390"
-    },
-    {
-        "url": "https://techcrunch.com/2026/06/30/wayve-launches-85m-employee-tender-offer-at-8-5b-valuation/",
-        "title": "Wayve launches $85M employee tender offer at $8.5B valuation",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-01T05:27:25.582390"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.30774",
-        "title": "What Drives Interactive Improvement from Feedback?",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-01T05:27:25.582390"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.30840",
-        "title": "Contrastive Reflection for Iterative Prompt Optimization",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-01T05:27:25.582390"
-    },
-    {
         "url": "https://arxiv.org/abs/2606.30846",
         "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
         "source": "ArXiv CS.AI",
@@ -628,5 +598,11 @@
         "title": "Narrative World Model: Narratology-Grounded Writer Memory for Long-Form Fiction",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-08T04:18:53.411724"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/08/sambanova-draws-1b-at-11b-valuation-in-series-f-first-close/",
+        "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-08T07:33:20.493383"
     }
 ]

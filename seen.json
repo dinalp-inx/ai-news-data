@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2606.30846",
-        "title": "How Can AI Find My Model? A Model-Finding Experimental Study Considering Data Formats, Embeddings, and Retrieval Strategies",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-01T10:00:51.318703"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.30850",
-        "title": "BayesBench: Evaluating LLM Belief Trajectories Under Multi-Turn Evidence Accumulation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-01T10:00:51.318703"
-    },
-    {
-        "url": "https://arxiv.org/abs/2606.30852",
-        "title": "When Does Learning to Stop Help? A Cost-Aware Study of Early Exits in Reasoning Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-01T10:00:51.318703"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
         "title": "The Download: Anthropic launches Claude Science, and California\u2019s carbon manure math",
         "source": "MIT Technology Review AI",
@@ -604,5 +586,11 @@
         "title": "AI chip maker SambaNova raises $1B at $11B valuation, 5 months after last mega round",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-08T07:33:20.493383"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/08/hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-ai-chips/",
+        "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-08T10:25:09.074756"
     }
 ]

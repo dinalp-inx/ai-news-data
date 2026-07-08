@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-        "title": "The Download: Anthropic launches Claude Science, and California\u2019s carbon manure math",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-01T13:36:08.720767"
-    },
-    {
         "url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
         "title": "Hugging Face and Cerebras bring Gemma 4 to real-time voice AI",
         "source": "Hugging Face Blog",
@@ -592,5 +586,17 @@
         "title": "Hot French startup ZML releases free product to speed inference across lots of AI chips",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-08T10:25:09.074756"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
+        "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-08T15:26:25.911882"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
+        "title": "The Download: worms fight pollution, and geoengineering faces reality",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-08T15:26:25.911882"
     }
 ]

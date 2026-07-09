@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2607.00001",
-        "title": "Constructive Alignment: Governing Preference Dynamics in Human-AI Interaction",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-02T04:04:48.490984"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.00002",
-        "title": "Bounded Morality: Defining the Space of Moral Computation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-02T04:04:48.490984"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.00032",
-        "title": "The MMM Data Model -- A Normative Specification for Knowledge Interoperability in a Decentralisable Knowledge Commons",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-02T04:04:48.490984"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.00035",
-        "title": "Making Failure Safe: A Constrained, Verifiable Agent Framework for Open-Web Data Collection",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-02T04:04:48.490984"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.00064",
-        "title": "Solution space path planning for supporting en-route air traffic control",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-02T04:04:48.490984"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
         "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
         "source": "TechCrunch AI",
@@ -634,5 +604,35 @@
         "title": "Lovable reportedly in talks to double its valuation to $13.2B",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-08T23:14:18.494955"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.06624",
+        "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-09T07:48:39.879401"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.06720",
+        "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-09T07:48:39.879401"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.06757",
+        "title": "LLM-powered reasoning in agent-based modeling",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-09T07:48:39.879401"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.06760",
+        "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-09T07:48:39.879401"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.06764",
+        "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-09T07:48:39.879401"
     }
 ]

@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/01/indian-tech-tycoon-bets-30m-to-build-an-ai-alternative-to-microsoft-office/",
-        "title": "Indian tech tycoon bets $30M of his own money to build AI alternative to Microsoft Office",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-02T08:15:14.833946"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
         "title": "Why California\u2019s carbon manure math doesn\u2019t add up",
         "source": "MIT Technology Review AI",
@@ -634,5 +628,11 @@
         "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-09T07:48:39.879401"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
+        "title": "Four nuclear reactors hit a big milestone in the US",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-09T11:11:10.004002"
     }
 ]

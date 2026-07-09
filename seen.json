@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/02/anthropic-is-discussing-a-new-custom-chip-with-samsung/",
-        "title": "Anthropic is discussing a new custom chip with Samsung",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-02T18:39:51.802289"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/02/jersey-mikes-ipo-illustrates-how-bad-the-ai-hype-has-become/",
-        "title": "Jersey Mike\u2019s IPO illustrates how bad the AI hype has become",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-02T20:22:54.872172"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/02/meta-quietly-launches-vibe-coded-gaming-app-pocket/",
-        "title": "Meta quietly launches vibe-coded gaming app Pocket",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-02T20:22:54.872172"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
         "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
         "source": "TechCrunch AI",
@@ -664,5 +646,47 @@
         "title": "Nvidia is a victim of the compute marketplace it created",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-09T18:02:30.928541"
+    },
+    {
+        "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
+        "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-09T20:50:59.670688"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+        "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-09T20:50:59.670688"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/09/new-york-times-says-openai-hid-evidence-in-chatgpt-copyright-trial/",
+        "title": "New York Times says OpenAI hid evidence in ChatGPT copyright trial",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-09T20:50:59.670688"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+        "title": "Google will now disclose which ads are made with AI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-09T20:50:59.670688"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+        "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-09T20:50:59.670688"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/09/how-did-the-government-decide-openais-frontier-model-was-safe-to-release/",
+        "title": "How did the government decide OpenAI\u2019s frontier model was safe to release?",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-09T20:50:59.670688"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/09/1140293/anthropic-found-a-hidden-space-where-claude-puzzles-over-concepts/",
+        "title": "Anthropic found a hidden space where Claude puzzles over concepts",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-09T20:50:59.670688"
     }
 ]

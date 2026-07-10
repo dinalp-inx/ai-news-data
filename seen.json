@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
-        "title": "The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway.",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-03T11:36:55.740793"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
         "title": "The Download: a smoking \u201cendgame\u201d and a new Elizabeth Bear story",
         "source": "MIT Technology Review AI",
@@ -730,5 +724,17 @@
         "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
         "source": "Hugging Face Blog",
         "saved_at": "2026-07-10T08:30:20.816934"
+    },
+    {
+        "url": "https://openai.com/index/deutsche-telekom",
+        "title": "How Deutsche Telekom is rewiring telecommunications with AI",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-10T11:59:13.247451"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/10/1140289/sperm-donors-need-limits-says-a-european-fertility-group/",
+        "title": "Sperm donors need limits, says a European fertility group",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-10T11:59:13.247451"
     }
 ]

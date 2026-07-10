@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
-        "title": "The Download: a smoking \u201cendgame\u201d and a new Elizabeth Bear story",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-03T14:22:32.527161"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
         "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
         "source": "MIT Technology Review AI",
@@ -736,5 +730,11 @@
         "title": "Sperm donors need limits, says a European fertility group",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-10T11:59:13.247451"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+        "title": "The Download: Claude\u2019s inner workings and OpenAI\u2019s \u201csuper app\u201d",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-10T14:47:38.631133"
     }
 ]

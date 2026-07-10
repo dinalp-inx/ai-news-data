@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
-        "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-03T18:16:48.476482"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
         "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
         "source": "TechCrunch AI",
@@ -736,5 +730,23 @@
         "title": "The Download: Claude\u2019s inner workings and OpenAI\u2019s \u201csuper app\u201d",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-10T14:47:38.631133"
+    },
+    {
+        "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+        "title": "Open source AI matters more than ever, according to Hugging Face\u2019s Clem Delangue",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-10T19:41:20.416632"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+        "title": "SK Hynix raises $26.5B in the biggest foreign IPO in US history, is urged to build new US fabs",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-10T19:41:20.416632"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+        "title": "Hugging Face\u2019s CEO on why companies are done renting their AI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-10T19:41:20.416632"
     }
 ]

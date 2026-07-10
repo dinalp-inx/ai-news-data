@@ -724,5 +724,11 @@
         "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-10T04:57:43.729287"
+    },
+    {
+        "url": "https://huggingface.co/blog/torch-attention-profile",
+        "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-10T08:30:20.816934"
     }
 ]

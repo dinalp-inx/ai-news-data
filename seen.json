@@ -1,41 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-        "title": "Mark Zuckerberg tells staff that AI agents haven\u2019t progressed as quickly as he\u2019d hoped",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-03T00:12:08.679810"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.01306",
-        "title": "PACE: A Neuro-Symbolic Framework for Plausible and Actionable Counterfactual Explanations",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-03T04:47:38.394374"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.01366",
-        "title": "Auto-FL-Research: Agentic Search for Federated Learning Algorithms",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-03T04:47:38.394374"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.01394",
-        "title": "The Wiola Architecture for Efficient Small Language Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-03T04:47:38.394374"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.01425",
-        "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-03T04:47:38.394374"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.01426",
-        "title": "When Should Service Agents Reconsider? Difficulty-Routed Control in Customer-Service Operations",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-03T04:47:38.394374"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
         "title": "The UK\u2019s generational tobacco ban might not work. I\u2019m supporting it anyway.",
         "source": "MIT Technology Review AI",
@@ -724,5 +688,41 @@
         "title": "Fidji Simo steps down from OpenAI\u2019s no. 2 role",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-10T00:11:22.167945"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
+        "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-10T04:57:43.729287"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.07721",
+        "title": "Context Graphs for Proactive Enterprise Agents",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-10T04:57:43.729287"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.07759",
+        "title": "AI-integrated models for assessing agricultural resilience",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-10T04:57:43.729287"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.07760",
+        "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-10T04:57:43.729287"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.07761",
+        "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-10T04:57:43.729287"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.07766",
+        "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-10T04:57:43.729287"
     }
 ]

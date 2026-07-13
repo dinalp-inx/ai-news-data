@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-        "title": "The running list: major tech layoffs in 2026 where employers cited AI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-06T18:59:59.605508"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
-        "title": "If you use Google, you\u2019re training its AI. Here\u2019s how to opt out.",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-06T18:59:59.605508"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
-        "title": "Reddit is using LLMs to solve a problem LLMs largely created",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-06T18:59:59.605508"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
-        "title": "Your family\u2019s $300 stake in OpenAI",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-06T18:59:59.605508"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
         "title": "Vercel CEO Guillermo Rauch on the fight to split off models from agents",
         "source": "TechCrunch AI",
@@ -736,5 +712,23 @@
         "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-13T17:18:54.398323"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+        "title": "The wildest allegations in Apple\u2019s trade secrets lawsuit against OpenAI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-13T19:37:16.805799"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+        "title": "Sam Altman\u2019s space data center trash talk is what most experts already believe",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-13T19:37:16.805799"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+        "title": "What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-13T19:37:16.805799"
     }
 ]

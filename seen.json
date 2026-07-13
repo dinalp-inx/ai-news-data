@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/mapping-ai-jobs-transition-eu",
-        "title": "Mapping Europe\u2019s AI Workforce Opportunity",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-06T13:52:09.928336"
-    },
-    {
-        "url": "https://huggingface.co/blog/lerobot-release-v060",
-        "title": "LeRobot v0.6.0: Imagine, Evaluate, Improve",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-06T13:52:09.928336"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
-        "title": "Station F ramps up as a launchpad for Europe\u2019s hottest AI startups",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-06T13:52:09.928336"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/06/1140172/the-download-south-korea-ai-chipworkers-eye-transplants/",
-        "title": "The Download: South Korea\u2019s hottest bachelors, and advancing eye transplants",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-06T13:52:09.928336"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/06/1140000/south-korea-bachelors-samsung-skhynix-chip-workers/",
-        "title": "South Korea\u2019s hottest new bachelors are chip workers",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-06T13:52:09.928336"
-    },
-    {
         "url": "https://huggingface.co/blog/Photoroom/prx-part4-data",
         "title": "PRX Part 4: Our Data Strategy",
         "source": "Hugging Face Blog",
@@ -748,5 +718,23 @@
         "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-13T07:27:44.290601"
+    },
+    {
+        "url": "https://openai.com/academy/getting-started",
+        "title": "Getting started with ChatGPT",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-13T14:48:26.173003"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+        "title": "Waze adds new AI-powered features and customization updates",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-13T14:48:26.173003"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+        "title": "The Download: a donor conception cap and world models for AI",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-13T14:48:26.173003"
     }
 ]

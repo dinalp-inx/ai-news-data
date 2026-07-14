@@ -1,47 +1,5 @@
 [
     {
-        "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-        "title": "Generative AI to quantify uncertainty in weather forecasting",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-07T17:23:27.531182"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-07T17:23:27.531182"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-        "title": "Computer-aided diagnosis for lung cancer screening",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-07T17:23:27.531182"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-        "title": "Using AI to expand global access to reliable flood forecasts",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-07T17:23:27.531182"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-07T17:23:27.531182"
-    },
-    {
-        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-        "title": "Hugging Face Models on Foundry Managed Compute",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-07T17:23:27.531182"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/07/the-coding-agent-wars-are-spilling-into-the-rest-of-the-office-claude-cowork/",
-        "title": "Claude Cowork expands to mobile and web",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-07T17:23:27.531182"
-    },
-    {
         "url": "https://openai.com/index/australian-payments-plus",
         "title": "Australian Payments Plus moves faster with ChatGPT and Codex",
         "source": "OpenAI Blog",
@@ -772,5 +730,53 @@
         "title": "New York State halts construction of all new data centers",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-14T16:22:51.286790"
+    },
+    {
+        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+        "title": "How to manage AI investments in the agentic era",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-14T18:08:53.861347"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-14T18:08:53.861347"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-14T18:08:53.861347"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-14T18:08:53.861347"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-14T18:08:53.861347"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-14T18:08:53.861347"
+    },
+    {
+        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
+        "title": "Hugging Face Models on Foundry Managed Compute",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-14T18:08:53.861347"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
+        "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-14T18:08:53.861347"
     }
 ]

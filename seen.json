@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/07/savis-app-aims-to-protect-consumers-from-realistic-ai-scams-like-kidnappers-demanding-ransom/",
-        "title": "Savi\u2019s app aims to protect consumers from realistic AI scams like kidnappers demanding ransom",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-07T14:56:32.278244"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/07/1140197/the-download-your-openai-stake-treasury-ai-warning/",
-        "title": "The Download: your stake in OpenAI, and the Treasury\u2019s AI warning",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-07T14:56:32.278244"
-    },
-    {
         "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
         "title": "Generative AI to quantify uncertainty in weather forecasting",
         "source": "Google AI Blog",
@@ -736,5 +724,35 @@
         "title": "How sales teams use ChatGPT Work",
         "source": "OpenAI Blog",
         "saved_at": "2026-07-14T12:18:52.691701"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
+        "title": "Reflection inks $1B compute deal with Nebius",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-14T14:58:37.950466"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
+        "title": "The real AI race may no longer be at the frontier",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-14T14:58:37.950466"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
+        "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-14T14:58:37.950466"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
+        "title": "Superhuman\u2019s new auto-draft feature almost makes me like AI replies",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-14T14:58:37.950466"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
+        "title": "The Download: Claude\u2019s inner workings, and the future of world models",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-14T14:58:37.950466"
     }
 ]

@@ -1,41 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/k-12-educators-practical-skills",
-        "title": "Helping K\u201312 educators build practical AI skills",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-08T17:44:13.785592"
-    },
-    {
-        "url": "https://openai.com/index/introducing-gpt-live",
-        "title": "Introducing GPT-Live",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-08T17:44:13.785592"
-    },
-    {
-        "url": "https://huggingface.co/blog/nvidia/open-data-for-agents",
-        "title": "Data for Agents",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-08T17:44:13.785592"
-    },
-    {
-        "url": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-        "title": "Native-speed vLLM transformers modeling backend",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-08T17:44:13.785592"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/08/meta-wants-its-ai-glasses-to-seem-less-creepy-its-ai-strategy-says-otherwise/",
-        "title": "Meta wants its AI glasses to seem less creepy. Its AI strategy says otherwise.",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-08T17:44:13.785592"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/08/openai-releases-new-voice-models-for-more-natural-live-conversations/",
-        "title": "OpenAI releases new voice models for more natural live conversations",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-08T17:44:13.785592"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
         "title": "SpaceXAI releases Grok 4.5, which Elon describes as an \u2018Opus-class model\u2019",
         "source": "TechCrunch AI",
@@ -814,5 +778,41 @@
         "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-15T17:23:10.697481"
+    },
+    {
+        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+        "title": "What building Shippy taught us about building agents",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-15T19:20:35.986426"
+    },
+    {
+        "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+        "title": "Model Routing Is Simple. Until It Isn\u2019t.",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-15T19:20:35.986426"
+    },
+    {
+        "url": "https://huggingface.co/blog/thinkingmachines-inkling",
+        "title": "Welcome Inkling by Thinking Machines",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-15T19:20:35.986426"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+        "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-15T19:20:35.986426"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
+        "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-15T19:20:35.986426"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-15T19:20:35.986426"
     }
 ]

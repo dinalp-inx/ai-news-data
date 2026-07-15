@@ -784,5 +784,35 @@
         "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-15T15:38:38.800719"
+    },
+    {
+        "url": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
+        "title": "The US is advancing AI safety through state and federal action",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-15T17:23:10.697481"
+    },
+    {
+        "url": "https://openai.com/index/unlocking-self-improvement-gpt-red",
+        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-15T17:23:10.697481"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+        "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-15T17:23:10.697481"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
+        "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-15T17:23:10.697481"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+        "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-15T17:23:10.697481"
     }
 ]

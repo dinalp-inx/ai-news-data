@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/08/spacexai-releases-grok-4-5-which-elon-describes-as-an-opus-class-model/",
-        "title": "SpaceXAI releases Grok 4.5, which Elon describes as an \u2018Opus-class model\u2019",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-08T19:42:47.025763"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/08/this-startup-thinks-robotics-is-about-to-have-its-chatgpt-moment/",
-        "title": "This startup thinks robotics is about to have its ChatGPT moment",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-08T19:42:47.025763"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/08/google-photos-adds-a-new-ai-video-remix-tool/",
-        "title": "Google Photos adds a new AI \u2018Video Remix\u2019 tool",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-08T19:42:47.025763"
-    },
-    {
-        "url": "https://techcrunch.com/video/why-this-ceo-thinks-video-games-make-better-training-data-than-the-internet/",
-        "title": "Why this CEO thinks video games make better training data than the internet",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-08T19:42:47.025763"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/08/1140223/emtech-ai-2026-the-rise-of-the-ai-platform/",
-        "title": "EmTech AI 2026: The Rise of the AI Platform",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-08T19:42:47.025763"
-    },
-    {
         "url": "https://openai.com/index/government-national-security-partnerships",
         "title": "Our approach to government and national security partnerships",
         "source": "OpenAI Blog",
@@ -814,5 +784,17 @@
         "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-15T19:20:35.986426"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-15T21:06:08.034080"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+        "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-15T21:06:08.034080"
     }
 ]

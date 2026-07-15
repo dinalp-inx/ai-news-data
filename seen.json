@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/08/former-openai-exec-kevin-weil-is-now-on-the-board-of-stoke-space/",
-        "title": "Former OpenAI exec Kevin Weil is now on the board of Stoke Space",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-08T15:26:25.911882"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/08/1140216/the-download-worms-manure-pollution-geoengineering-reality-check/",
-        "title": "The Download: worms fight pollution, and geoengineering faces reality",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-08T15:26:25.911882"
-    },
-    {
         "url": "https://openai.com/index/k-12-educators-practical-skills",
         "title": "Helping K\u201312 educators build practical AI skills",
         "source": "OpenAI Blog",
@@ -784,5 +772,17 @@
         "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-15T13:55:31.012887"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+        "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-15T15:38:38.800719"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/15/1140498/the-download-useful-quantum-computer-subsea-tunnel/",
+        "title": "The Download: a useful quantum machine and a record-breaking subsea tunnel",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-15T15:38:38.800719"
     }
 ]

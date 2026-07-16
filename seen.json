@@ -1,41 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/09/anthropics-new-claude-feature-is-quietly-selling-you-on-ai/",
-        "title": "Anthropic\u2019s new Claude feature is quietly selling you on AI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-09T15:23:54.339283"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/09/anthropic-openai-and-spacex-are-bigger-than-the-last-25-years-of-tech-exits/",
-        "title": "Anthropic, OpenAI, and SpaceX are bigger than the last 25 years of tech exits",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-09T15:23:54.339283"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-        "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-09T15:23:54.339283"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/09/character-ai-enters-the-microdrama-arena-with-its-own-productions-but-with-a-twist/",
-        "title": "Character.AI enters the microdrama arena with its own productions, but there\u2019s a twist",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-09T15:23:54.339283"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/09/nandan-nilekani-leaves-gp-role-at-his-vc-firm-as-it-launches-third-200m-fund/",
-        "title": "Nandan Nilekani leaves GP role at Fundamentum as it launches $200M third fund",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-09T15:23:54.339283"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/09/1140283/the-download-nuclear-power-milestone-nvidia-china-ai-chips/",
-        "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-09T15:23:54.339283"
-    },
-    {
         "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
         "title": "ChatGPT is now a partner for your most ambitious work",
         "source": "OpenAI Blog",
@@ -814,5 +778,35 @@
         "title": "The Download: OpenAI unveils GPT-Red and heat pumps rise in the US",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-16T14:07:30.024923"
+    },
+    {
+        "url": "https://openai.com/index/why-teens-deserve-access-safe-ai",
+        "title": "Why teens deserve access to safe AI",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-16T16:21:48.909521"
+    },
+    {
+        "url": "https://openai.com/index/cars24",
+        "title": "How Cars24 scales conversations and builds faster with OpenAI",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-16T16:21:48.909521"
+    },
+    {
+        "url": "https://huggingface.co/blog/nvidia/nemotron-3-embed-wins-rteb",
+        "title": "NVIDIA Nemotron 3 Embed Ranks #1 Overall on RTEB, Advancing Agentic Retrieval",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-16T16:21:48.909521"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/16/googles-ai-mode-now-lets-you-link-and-interact-with-select-apps/",
+        "title": "Google\u2019s AI Mode now lets you link and interact with select apps",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-16T16:21:48.909521"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
+        "title": "Yes, you can now order DoorDash from the command line",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-16T16:21:48.909521"
     }
 ]

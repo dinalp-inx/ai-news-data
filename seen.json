@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/08/lovable-reportedly-in-talks-to-double-its-valuation-to-13-2b/",
-        "title": "Lovable reportedly in talks to double its valuation to $13.2B",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-08T23:14:18.494955"
-    },
-    {
         "url": "https://arxiv.org/abs/2607.06624",
         "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
         "source": "ArXiv CS.AI",
@@ -784,5 +778,11 @@
         "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
         "source": "VentureBeat AI",
         "saved_at": "2026-07-15T23:02:23.889478"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-16T03:16:05.853643"
     }
 ]

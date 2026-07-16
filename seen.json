@@ -1,41 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work",
-        "title": "ChatGPT is now a partner for your most ambitious work",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-09T18:02:30.928541"
-    },
-    {
-        "url": "https://openai.com/index/bio-bug-bounty",
-        "title": "GPT-5.5 Bio Bug Bounty",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-09T18:02:30.928541"
-    },
-    {
-        "url": "https://openai.com/index/gpt-5-6",
-        "title": "GPT-5.6: Frontier intelligence that scales with your ambition",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-09T18:02:30.928541"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-        "title": "How to stop Meta\u2019s AI image generator from using your Instagram photos",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-09T18:02:30.928541"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-        "title": "Meta\u2019s new AI chips will begin production in September",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-09T18:02:30.928541"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/09/nvidia-is-a-victim-of-the-compute-marketplace-it-created/",
-        "title": "Nvidia is a victim of the compute marketplace it created",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-09T18:02:30.928541"
-    },
-    {
         "url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
         "title": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot",
         "source": "OpenAI Blog",
@@ -808,5 +772,35 @@
         "title": "Yes, you can now order DoorDash from the command line",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-16T16:21:48.909521"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
+        "title": "Why is OpenAI selling a ChatGPT basketball?",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-16T18:10:51.002636"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
+        "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-16T18:10:51.002636"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
+        "title": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-16T18:10:51.002636"
+    },
+    {
+        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+        "source": "VentureBeat AI",
+        "saved_at": "2026-07-16T18:10:51.002636"
+    },
+    {
+        "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
+        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem \u2014 and most are still building the fix",
+        "source": "VentureBeat AI",
+        "saved_at": "2026-07-16T18:10:51.002636"
     }
 ]

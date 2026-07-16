@@ -784,5 +784,41 @@
         "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-16T03:16:05.853643"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
+        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-16T06:24:22.008088"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.13037",
+        "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-16T06:24:22.008088"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.13049",
+        "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-16T06:24:22.008088"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.13069",
+        "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-16T06:24:22.008088"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.13073",
+        "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-16T06:24:22.008088"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.13104",
+        "title": "Self-Improvements in Modern Agentic Systems: A Survey",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-16T06:24:22.008088"
     }
 ]

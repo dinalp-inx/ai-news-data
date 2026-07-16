@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2607.06624",
-        "title": "AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-09T07:48:39.879401"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.06720",
-        "title": "When Does In-Context Search Help? A Sampling-Complexity Theory of Reflection-Driven Reasoning",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-09T07:48:39.879401"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.06757",
-        "title": "LLM-powered reasoning in agent-based modeling",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-09T07:48:39.879401"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.06760",
-        "title": "QANTIS: Hardware-Calibrated Sequential POMDP Belief Updates on IBM Heron",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-09T07:48:39.879401"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.06764",
-        "title": "Cost-Effective Agent Harnesses for Abstract Reasoning and Generalization on ARC-AGI-1",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-09T07:48:39.879401"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/07/09/1140235/nuclear-reactor-milestone-criticality/",
         "title": "Four nuclear reactors hit a big milestone in the US",
         "source": "MIT Technology Review AI",

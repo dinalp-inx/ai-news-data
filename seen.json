@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-        "title": "The Download: Claude\u2019s inner workings and OpenAI\u2019s \u201csuper app\u201d",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-10T14:47:38.631133"
-    },
-    {
         "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
         "title": "Open source AI matters more than ever, according to Hugging Face\u2019s Clem Delangue",
         "source": "TechCrunch AI",
@@ -754,5 +748,17 @@
         "title": "The Download: perimenopause misinformation and China\u2019s latest AI leap",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-17T14:47:37.603449"
+    },
+    {
+        "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+        "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and \ud83e\udd17 Diffusers",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-17T16:19:51.924614"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+        "title": "Patreon stops asking AI bots not to scrape \u2014 and starts blocking them",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-17T16:19:51.924614"
     }
 ]

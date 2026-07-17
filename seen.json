@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/torch-attention-profile",
-        "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-10T08:30:20.816934"
-    },
-    {
         "url": "https://openai.com/index/deutsche-telekom",
         "title": "How Deutsche Telekom is rewiring telecommunications with AI",
         "source": "OpenAI Blog",
@@ -742,5 +736,17 @@
         "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-17T04:12:08.269650"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
+        "title": "There\u2019s a lot of hype around perimenopause. Don\u2019t buy it.",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-17T10:04:37.249441"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+        "title": "The risk of weather data sabotage is rising",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-17T10:04:37.249441"
     }
 ]

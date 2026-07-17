@@ -1,41 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
-        "title": "OpenAI says GPT 5.6 is the \u2018preferred model\u2019 for Microsoft Copilot 365 amid breakup chatter",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-10T04:57:43.729287"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.07721",
-        "title": "Context Graphs for Proactive Enterprise Agents",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-10T04:57:43.729287"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.07759",
-        "title": "AI-integrated models for assessing agricultural resilience",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-10T04:57:43.729287"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.07760",
-        "title": "Adversarial Social Epistemology for Assemblies of Humans and Large Language Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-10T04:57:43.729287"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.07761",
-        "title": "Aligning Clinical Needs and AI Capabilities: A Survey on LLMs for Medical Reasoning",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-10T04:57:43.729287"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.07766",
-        "title": "Alignment Plausibility: A New Standard for Assuring AI in Healthcare",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-10T04:57:43.729287"
-    },
-    {
         "url": "https://huggingface.co/blog/torch-attention-profile",
         "title": "Profiling in PyTorch (Part 3): Attention is all you profile",
         "source": "Hugging Face Blog",

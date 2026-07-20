@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2607.08773",
-        "title": "Interval Certifications for Multilayered Perceptrons via Lattice Traversal",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-13T07:27:44.290601"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.08774",
-        "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-13T07:27:44.290601"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.08894",
-        "title": "GATS: Graph-Augmented Tree Search with Layered World Models for Efficient Agent Planning",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-13T07:27:44.290601"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.08964",
-        "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-13T07:27:44.290601"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.08986",
-        "title": "A Formalization of the Mean-Field Derivation of the Vlasov Equation: AI-Assisted Lean Formalization as a Strategy Game",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-13T07:27:44.290601"
-    },
-    {
         "url": "https://openai.com/academy/getting-started",
         "title": "Getting started with ChatGPT",
         "source": "OpenAI Blog",

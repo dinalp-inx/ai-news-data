@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
-        "title": "The wildest allegations in Apple\u2019s trade secrets lawsuit against OpenAI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-13T19:37:16.805799"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
-        "title": "Sam Altman\u2019s space data center trash talk is what most experts already believe",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-13T19:37:16.805799"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-        "title": "What Anthropic\u2019s latest AI discovery does\u2014and doesn\u2019t\u2014show",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-13T19:37:16.805799"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/13/satya-nadella-has-issued-a-shocking-warning-to-companies-using-ai/",
         "title": "Satya Nadella has issued a shocking warning to companies using AI",
         "source": "TechCrunch AI",
@@ -808,5 +790,23 @@
         "title": "China\u2019s AI models have Trump\u2019s AI world at war with itself",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-20T18:57:09.792424"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
+        "title": "X relaunches a rebuilt Android app after year-long effort",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-20T20:26:21.967856"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
+        "title": "OpenAI is scared of open-weight models. Should the US be?",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-20T20:26:21.967856"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
+        "title": "Adobe camera app\u2019s new feature will critique your photos using AI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-20T20:26:21.967856"
     }
 ]

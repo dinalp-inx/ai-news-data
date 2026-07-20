@@ -802,5 +802,35 @@
         "title": "What to watch for after Jensen Huang\u2019s Japan visit",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-19T22:01:31.975112"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.15280",
+        "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-20T04:39:33.795785"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.15281",
+        "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-20T04:39:33.795785"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.15314",
+        "title": "Cura 1T: Specialized Model for Agentic Healthcare",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-20T04:39:33.795785"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.15367",
+        "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-20T04:39:33.795785"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.15388",
+        "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-20T04:39:33.795785"
     }
 ]

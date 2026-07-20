@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
-        "title": "Should AI help you get away with killing your spouse?",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-13T17:18:54.398323"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
-        "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-13T17:18:54.398323"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
         "title": "The wildest allegations in Apple\u2019s trade secrets lawsuit against OpenAI",
         "source": "TechCrunch AI",
@@ -808,5 +796,17 @@
         "title": "YouTube clarifies policies around AI slop and upsetting videos",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-20T16:36:16.518306"
+    },
+    {
+        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
+        "title": "Safety and alignment in an era of long-horizon models",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-20T18:57:09.792424"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
+        "title": "China\u2019s AI models have Trump\u2019s AI world at war with itself",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-20T18:57:09.792424"
     }
 ]

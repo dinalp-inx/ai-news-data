@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://openai.com/academy/getting-started",
-        "title": "Getting started with ChatGPT",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-13T14:48:26.173003"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
-        "title": "Waze adds new AI-powered features and customization updates",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-13T14:48:26.173003"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-        "title": "The Download: a donor conception cap and world models for AI",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-13T14:48:26.173003"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
         "title": "Should AI help you get away with killing your spouse?",
         "source": "TechCrunch AI",
@@ -814,5 +796,17 @@
         "title": "The Download: AI hiring biases, and weather data sabotage",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-20T14:20:58.873722"
+    },
+    {
+        "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+        "title": "Introducing Cosmos 3 Edge",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-20T16:36:16.518306"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
+        "title": "YouTube clarifies policies around AI slop and upsetting videos",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-20T16:36:16.518306"
     }
 ]

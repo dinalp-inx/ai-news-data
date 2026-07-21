@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
-        "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T20:17:22.089653"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-        "title": "Anthropic\u2019s newest ad is creeping people out",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T20:17:22.089653"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/14/the-founder-of-hinge-raised-18m-to-build-a-new-ai-dating-service-overtone/",
-        "title": "The founder of Hinge raised $18M to build a new AI dating service, Overtone",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T20:17:22.089653"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/14/google-faces-another-ai-training-lawsuit-from-major-publishers/",
-        "title": "Google faces another AI training lawsuit from major publishers",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T20:17:22.089653"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/14/openais-new-flagship-model-deletes-files-on-its-own-people-keep-warning/",
         "title": "OpenAI\u2019s new flagship model deletes files on its own, people keep warning",
         "source": "TechCrunch AI",
@@ -778,5 +754,35 @@
         "title": "Data centers expected to use 4x more electricity by 2035",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-21T19:39:56.498274"
+    },
+    {
+        "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
+        "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-21T21:16:42.402176"
+    },
+    {
+        "url": "https://openai.com/index/david-velez-robin-vince-join-openai-boards",
+        "title": "David V\u00e9lez and Robin Vince join the boards of the OpenAI Foundation and OpenAI Group PBC",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-21T21:16:42.402176"
+    },
+    {
+        "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai",
+        "title": "The State of Simulation for Physical AI: An Overview",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-21T21:16:42.402176"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-own-pre-release-models/",
+        "title": "OpenAI says Hugging Face was breached by its own pre-release models",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-21T21:16:42.402176"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents/",
+        "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-21T21:16:42.402176"
     }
 ]

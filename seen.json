@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
-        "title": "Reflection inks $1B compute deal with Nebius",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T14:58:37.950466"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/14/the-real-ai-race-may-no-longer-be-at-the-frontier-open-models-hugging-face/",
-        "title": "The real AI race may no longer be at the frontier",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T14:58:37.950466"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/14/spotify-expands-its-ai-push-with-a-chatgpt-like-music-assistant/",
-        "title": "Spotify expands its AI push with a ChatGPT-like music assistant",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T14:58:37.950466"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/14/superhumans-new-auto-draft-feature-almost-makes-me-like-ai-replies/",
-        "title": "Superhuman\u2019s new auto-draft feature almost makes me like AI replies",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T14:58:37.950466"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/14/1140391/the-download-anthropic-claude-internal-thoughts-world-models/",
-        "title": "The Download: Claude\u2019s inner workings, and the future of world models",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-14T14:58:37.950466"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/14/metas-adam-mosseri-says-ai-token-budgets-could-soon-be-capped-per-engineer/",
         "title": "Meta\u2019s Adam Mosseri says AI token budgets could soon be capped per engineer",
         "source": "TechCrunch AI",
@@ -802,5 +772,17 @@
         "title": "Advancing next-gen AI with materials science innovation",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-21T12:26:01.013786"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
+        "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-21T15:07:38.917527"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
+        "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-21T15:07:38.917527"
     }
 ]

@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/13/already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-again/",
-        "title": "Already rich, already successful, why the last wave of tech winners is grinding again",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T02:55:58.885317"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/13/ubers-product-chief-on-hotels-robotaxis-and-why-the-company-doesnt-want-to-be-everything-for-everyone/",
-        "title": "Uber\u2019s product chief on hotels, robotaxis, and why the company doesn\u2019t want to be \u201ceverything for everyone\u201d",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T02:55:58.885317"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/13/video-generation-startup-pixverse-raises-439m-valuation-soars-past-2b/",
-        "title": "Video-generation startup PixVerse raises $439M, valuation soars past $2B",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T02:55:58.885317"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/13/hermes-agent-maker-nous-research-in-talks-for-new-funding-at-1-5b-valuation/",
-        "title": "Hermes agent maker Nous Research in talks for new funding at $1.5B valuation",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T02:55:58.885317"
-    },
-    {
         "url": "https://arxiv.org/abs/2607.09664",
         "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
         "source": "ArXiv CS.AI",
@@ -820,5 +796,35 @@
         "title": "Trump\u2019s latest AI czar has already resigned",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-21T00:01:37.071850"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved/",
+        "title": "Anthropic\u2019s landmark $1.5B copyright settlement is approved",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-21T04:18:37.850267"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.16195",
+        "title": "Rater State Bias in RLHF Preference Data: An Audit Framework",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-21T04:18:37.850267"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.16196",
+        "title": "Design and Validation of a Lightweight 1D CNN for Affective Touch Classification in Soft Plush Companions",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-21T04:18:37.850267"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.16197",
+        "title": "Some Large Language Models Exhibit Consistent Risk Attitudes",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-21T04:18:37.850267"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.16198",
+        "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-21T04:18:37.850267"
     }
 ]

@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2607.09664",
-        "title": "From ML Predictions to Informed Diagnostic Assistance Using the Toulmin Model of Argumentation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-14T05:37:47.554322"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.09665",
-        "title": "Format Sensitivity Index: Token-Controlled Prompt Wrapper Robustness and Schema Compliance in LLM Benchmarking",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-14T05:37:47.554322"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.09678",
-        "title": "Faithful, Not Corrective: Message-Format Effects in Multi-Hop Agent Relays Are Tier-Dependent",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-14T05:37:47.554322"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.09689",
-        "title": "Boltzmann MapReduce: A Partition-Function Reduce for Forkable Sandboxes",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-14T05:37:47.554322"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.09698",
-        "title": "Interpreting Latent CoT Reasoning as Dynamical Systems",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-14T05:37:47.554322"
-    },
-    {
         "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
         "title": "How data science teams use ChatGPT Work",
         "source": "OpenAI Blog",
@@ -826,5 +796,11 @@
         "title": "A Survey on GNN-based Link Prediction: Techniques, Applications, and Challenges",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-21T04:18:37.850267"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.16199",
+        "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-21T07:35:50.494104"
     }
 ]

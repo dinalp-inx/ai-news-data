@@ -1,53 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
-        "title": "How to manage AI investments in the agentic era",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-14T18:08:53.861347"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-        "title": "Generative AI to quantify uncertainty in weather forecasting",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-14T18:08:53.861347"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-14T18:08:53.861347"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-        "title": "Computer-aided diagnosis for lung cancer screening",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-14T18:08:53.861347"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-        "title": "Using AI to expand global access to reliable flood forecasts",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-14T18:08:53.861347"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-14T18:08:53.861347"
-    },
-    {
-        "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
-        "title": "Hugging Face Models on Foundry Managed Compute",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-14T18:08:53.861347"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/14/deepmind-ceo-calls-for-an-independent-standards-body-to-regulate-frontier-ai/",
-        "title": "DeepMind CEO calls for an independent standards body to regulate frontier AI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-14T18:08:53.861347"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/14/apple-opens-its-new-siri-ai-to-everyone-with-the-ios-27-public-beta/",
         "title": "Apple opens its new Siri AI to everyone with the iOS 27 public beta",
         "source": "TechCrunch AI",
@@ -784,5 +736,47 @@
         "title": "US threatens sanctions against Chinese AI models over IP theft",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-21T17:27:16.397071"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-21T19:39:56.498274"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-21T19:39:56.498274"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-21T19:39:56.498274"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-21T19:39:56.498274"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-21T19:39:56.498274"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
+        "title": "AI and the rise of the universal entertainment app",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-21T19:39:56.498274"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
+        "title": "Data centers expected to use 4x more electricity by 2035",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-21T19:39:56.498274"
     }
 ]

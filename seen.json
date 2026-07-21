@@ -802,5 +802,11 @@
         "title": "PlanFlip: Attacking Multi-Agent LLM Systems via Planning-Phase Prompt Injection",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-21T07:35:50.494104"
+    },
+    {
+        "url": "https://huggingface.co/blog/grabette",
+        "title": "Grabette: an open system to record robot-manipulation data",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-21T10:29:35.655022"
     }
 ]

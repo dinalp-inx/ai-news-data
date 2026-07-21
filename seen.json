@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
-        "title": "How data science teams use ChatGPT Work",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-14T10:51:41.364075"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/14/1140356/psiquantum-plan-massive-quantum-computer-out-of-light/",
-        "title": "PsiQuantum has a plan to make a massive quantum computer out of light",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-14T10:51:41.364075"
-    },
-    {
-        "url": "https://openai.com/academy/codex-for-work/how-sales-teams-use-codex",
-        "title": "How sales teams use ChatGPT Work",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-14T12:18:52.691701"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/14/reflection-inks-1b-compute-deal-with-nebius/",
         "title": "Reflection inks $1B compute deal with Nebius",
         "source": "TechCrunch AI",
@@ -808,5 +790,17 @@
         "title": "Grabette: an open system to record robot-manipulation data",
         "source": "Hugging Face Blog",
         "saved_at": "2026-07-21T10:29:35.655022"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
+        "title": "Gritt exits stealth with $34 million for robots to build solar plants\u2014then, everything else",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-21T12:26:01.013786"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
+        "title": "Advancing next-gen AI with materials science innovation",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-21T12:26:01.013786"
     }
 ]

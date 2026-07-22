@@ -1,41 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-        "title": "What building Shippy taught us about building agents",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-15T19:20:35.986426"
-    },
-    {
-        "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-        "title": "Model Routing Is Simple. Until It Isn\u2019t.",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-15T19:20:35.986426"
-    },
-    {
-        "url": "https://huggingface.co/blog/thinkingmachines-inkling",
-        "title": "Welcome Inkling by Thinking Machines",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-15T19:20:35.986426"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
-        "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-15T19:20:35.986426"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/15/thinking-machines-amps-up-its-bet-against-one-size-fits-all-ai-with-its-first-open-model-inkling/",
-        "title": "Thinking Machines amps up its bet against one-size-fits-all AI with its first open model, Inkling",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-15T19:20:35.986426"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
-        "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-15T19:20:35.986426"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
         "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
         "source": "TechCrunch AI",
@@ -748,5 +712,35 @@
         "title": "Menlo Ventures\u2019 Matt Murphy explains what AI startups founders must do differently",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-22T18:12:56.187062"
+    },
+    {
+        "url": "https://openai.com/index/how-news-organizations-are-using-ai",
+        "title": "How news organizations are using AI to advance their vital missions",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-22T20:15:15.196707"
+    },
+    {
+        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+        "title": "What building Shippy taught us about building agents",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-22T20:15:15.196707"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
+        "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-22T20:15:15.196707"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
+        "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-22T20:15:15.196707"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
+        "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-22T20:15:15.196707"
     }
 ]

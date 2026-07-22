@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/real-world-voiceeq",
-        "title": "Introducing Real World VoiceEQ: Measuring the human quality of voice AI",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-15T13:55:31.012887"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-        "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-15T13:55:31.012887"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-        "title": "Reelful\u2019s AI turns your camera roll into short-form videos for social media",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-15T13:55:31.012887"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-        "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-15T13:55:31.012887"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-        "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-15T13:55:31.012887"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
         "title": "Apple Intelligence approved for launch in China with Alibaba\u2019s Qwen AI",
         "source": "TechCrunch AI",
@@ -754,5 +724,35 @@
         "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-22T11:52:23.911463"
+    },
+    {
+        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
+        "title": "Building AI infrastructure with the Effingham County community",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-22T14:09:59.006727"
+    },
+    {
+        "url": "https://openai.com/index/introducing-openai-presence",
+        "title": "Introducing OpenAI Presence",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-22T14:09:59.006727"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+        "title": "The browser wars aren\u2019t about search anymore \u2014 here are the best alternatives to Chrome and Safari",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-22T14:09:59.006727"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us/",
+        "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-22T14:09:59.006727"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/22/1140717/the-download-nasa-space-telescope-openai-hugging-face-hack/",
+        "title": "The Download: NASA\u2019s new space telescope and OpenAI\u2019s autonomous hacker",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-22T14:09:59.006727"
     }
 ]

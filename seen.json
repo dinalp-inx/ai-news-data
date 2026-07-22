@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
-        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-15T21:06:08.034080"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
-        "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-15T21:06:08.034080"
-    },
-    {
         "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
         "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
         "source": "VentureBeat AI",
@@ -742,5 +730,17 @@
         "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-22T20:15:15.196707"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-22T22:09:29.006618"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic\u2019s Fable",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-22T22:09:29.006618"
     }
 ]

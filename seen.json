@@ -1,41 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/15/applied-computing-wants-to-give-oil-and-gas-operators-an-ai-model-for-the-entire-plant/",
-        "title": "Applied Computing wants to give oil and gas operators an AI model for the entire plant",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-16T06:24:22.008088"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.13037",
-        "title": "OriginBlame: Record- and Token-Level Data Provenance for AI Training Datasets",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-16T06:24:22.008088"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.13049",
-        "title": "SPINE: Bridging the Cyber-Physical Gap with Agentic AI",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-16T06:24:22.008088"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.13069",
-        "title": "Interventional Grounding Audits: Black-Box Premise-Dependency Tests for LLM Chain-of-Thought via Predicate Substitution",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-16T06:24:22.008088"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.13073",
-        "title": "Probabilistic Extension of Neuro-Symbolic AGI Robots based on Belnap's Typed Intensional FOL",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-16T06:24:22.008088"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.13104",
-        "title": "Self-Improvements in Modern Agentic Systems: A Survey",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-16T06:24:22.008088"
-    },
-    {
         "url": "https://huggingface.co/blog/security-incident-july-2026",
         "title": "Security incident disclosure \u2014 July 2026",
         "source": "Hugging Face Blog",
@@ -778,5 +742,17 @@
         "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-23T04:19:36.703544"
+    },
+    {
+        "url": "https://huggingface.co/blog/nunchaku-diffusers",
+        "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-23T07:36:54.785569"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+        "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-23T07:36:54.785569"
     }
 ]

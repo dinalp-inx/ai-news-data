@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/16/why-is-openai-selling-a-chatgpt-basketball/",
-        "title": "Why is OpenAI selling a ChatGPT basketball?",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-16T18:10:51.002636"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/16/how-a-former-deepmind-researcher-raised-at-a-300m-pre-seed-valuation-before-launching-a-product/",
-        "title": "How a former DeepMind researcher raised at a $300M pre-seed valuation before launching a product",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-16T18:10:51.002636"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/16/why-ami-labs-alexandre-lebrun-wont-call-his-ai-agi-or-superintelligence/",
-        "title": "Why AMI Labs\u2019 Alexandre LeBrun won\u2019t call his AI \u2018AGI\u2019 or \u2018superintelligence\u2019",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-16T18:10:51.002636"
-    },
-    {
-        "url": "https://venturebeat.com/ai/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
-        "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-07-16T18:10:51.002636"
-    },
-    {
-        "url": "https://venturebeat.com/ai/the-ai-context-gap-enterprise-ai-organizations-have-a-trust-problem-not-a-retrieval-problem-and-most-are-still-building-the-fix",
-        "title": "The AI context gap: Enterprise AI organizations have a trust problem, not a retrieval problem \u2014 and most are still building the fix",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-07-16T18:10:51.002636"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
         "title": "Google Vids now lets you star in your own AI videos",
         "source": "TechCrunch AI",
@@ -808,5 +778,17 @@
         "title": "Supercooled kidneys have been transplanted into pigs in a \u201clandmark achievement\u201d",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-23T17:36:14.848234"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models/",
+        "title": "Anthropic updates Claude voice mode with more capable models",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-23T19:27:11.899601"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing/",
+        "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-23T19:27:11.899601"
     }
 ]

@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
-        "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-07-15T23:02:23.889478"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
         "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
         "source": "TechCrunch AI",
@@ -742,5 +736,23 @@
         "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic\u2019s Fable",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-22T22:09:29.006618"
+    },
+    {
+        "url": "https://openai.com/index/ntt-data",
+        "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-23T00:05:51.365792"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "title": "After shocking quarter, IBM insists that AI isn\u2019t killing the mainframe",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-23T00:05:51.365792"
+    },
+    {
+        "url": "https://venturebeat.com/ai/agentic-orchestration-enterprise-ai-organizations-have-a-deployment-problem-not-a-platform-problem-and-most-are-calling-chatbots-agents",
+        "title": "Agentic orchestration: Enterprise AI organizations have a deployment problem, not a platform problem \u2014 and most are calling chatbots agents",
+        "source": "VentureBeat AI",
+        "saved_at": "2026-07-23T00:05:51.365792"
     }
 ]

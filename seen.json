@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/16/google-vids-now-lets-you-star-in-your-own-ai-videos/",
-        "title": "Google Vids now lets you star in your own AI videos",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-16T20:05:28.051359"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app/",
-        "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-16T20:05:28.051359"
-    },
-    {
-        "url": "https://venturebeat.com/ai/the-agent-security-gap-54-of-enterprises-have-already-had-an-ai-agent-incident-and-most-still-let-agents-share-credentials",
-        "title": "The agent security gap: 54% of enterprises have already had an AI agent incident, and most still let agents share credentials",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-07-16T20:05:28.051359"
-    },
-    {
-        "url": "https://venturebeat.com/ai/the-agent-evaluation-gap-enterprise-ai-organizations-have-a-reality-alignment-problem-not-a-coverage-problem-and-most-are-shipping-to-production-anyway",
-        "title": "The agent evaluation gap: Enterprise AI organizations have a reality-alignment problem, not a coverage problem \u2014 and most are shipping to production anyway",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-07-16T20:05:28.051359"
-    },
-    {
         "url": "https://arxiv.org/abs/2607.14093",
         "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
         "source": "ArXiv CS.AI",
@@ -790,5 +766,11 @@
         "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-23T19:27:11.899601"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system/",
+        "title": "AMD takes on Nvidia with its Helios AI rack scale system",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-23T21:11:12.315268"
     }
 ]

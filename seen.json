@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2607.14093",
-        "title": "Intelligent Three Level Learning Architecture for Autonomous UAV Swarms in Search and Rescue",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-17T04:12:08.269650"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.14095",
-        "title": "HG-RAG: Hierarchy-Guided Retrieval-Augmented Generation for Structured Knowledge Graphs",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-17T04:12:08.269650"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.14096",
-        "title": "IMEX Interaction-Based Model Explanation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-17T04:12:08.269650"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.14097",
-        "title": "RegNetAgents: A Multi-Agent Framework for Cross-Network Regulatory Driver Identification in Cancer Genomics",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-17T04:12:08.269650"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.14115",
-        "title": "DialogueVPR: Towards Conversational Visual Place Recognition",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-17T04:12:08.269650"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/07/17/1140608/theres-a-lot-of-hype-around-perimenopause-dont-buy-it/",
         "title": "There\u2019s a lot of hype around perimenopause. Don\u2019t buy it.",
         "source": "MIT Technology Review AI",
@@ -778,5 +748,35 @@
         "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-24T03:21:23.682846"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.20452",
+        "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-24T06:31:16.066008"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.20462",
+        "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-24T06:31:16.066008"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.20463",
+        "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-24T06:31:16.066008"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.20464",
+        "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-24T06:31:16.066008"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.20466",
+        "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-24T06:31:16.066008"
     }
 ]

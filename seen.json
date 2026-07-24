@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/a-scorecard-for-the-ai-age",
-        "title": "A scorecard for the AI age",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-17T14:47:37.603449"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/17/1140640/the-download-perimenopause-misinformation-china-moonshot-ai/",
-        "title": "The Download: perimenopause misinformation and China\u2019s latest AI leap",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-17T14:47:37.603449"
-    },
-    {
         "url": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
         "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and \ud83e\udd17 Diffusers",
         "source": "Hugging Face Blog",
@@ -772,5 +760,17 @@
         "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-24T13:57:25.244212"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
+        "title": "Bluesky\u2019s AI assistant Attie expands into an open social research tool",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-24T15:36:29.584195"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star/",
+        "title": "Midjourney acquired the astrology app Co-Star",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-24T15:36:29.584195"
     }
 ]

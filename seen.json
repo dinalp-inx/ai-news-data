@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
-        "title": "X relaunches a rebuilt Android app after year-long effort",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-20T20:26:21.967856"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be/",
-        "title": "OpenAI is scared of open-weight models. Should the US be?",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-20T20:26:21.967856"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai/",
-        "title": "Adobe camera app\u2019s new feature will critique your photos using AI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-20T20:26:21.967856"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient/",
         "title": "Google is working on a new AI chip designed to make Gemini more efficient",
         "source": "TechCrunch AI",
@@ -796,5 +778,11 @@
         "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-27T19:43:25.983671"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
+        "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-27T21:17:05.455511"
     }
 ]

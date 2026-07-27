@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
-        "title": "AI is more likely than humans to form biases when hiring",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-20T11:50:35.850910"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
         "title": "The Download: AI hiring biases, and weather data sabotage",
         "source": "MIT Technology Review AI",
@@ -736,5 +730,35 @@
         "title": "Are brain waves the next unlock for physical AI?",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-27T04:41:19.278367"
+    },
+    {
+        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+        "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-27T12:30:32.416966"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
+        "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-27T12:30:32.416966"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
+        "title": "The path to artificial superintelligence",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-27T12:30:32.416966"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
+        "title": "Closing the data loop in AI-driven drug discovery",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-27T12:30:32.416966"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
+        "title": "Building the enterprise environment for agentic AI",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-27T12:30:32.416966"
     }
 ]

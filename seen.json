@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2607.15280",
-        "title": "GraphDx: A Cost-Aware Knowledge-Enhanced Multi-Agent Framework for Sequential Diagnosis",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-20T04:39:33.795785"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.15281",
-        "title": "Causal-Audit: Explicit and Auditable Graph-based Reasoning via Target-Aware Causal Chain Construction",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-20T04:39:33.795785"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.15314",
-        "title": "Cura 1T: Specialized Model for Agentic Healthcare",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-20T04:39:33.795785"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.15367",
-        "title": "AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-20T04:39:33.795785"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.15388",
-        "title": "Precise but Uncoupled: Reviewer Precision Does Not Guarantee Critique Uptake in Multi-Agent Math Reasoning",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-20T04:39:33.795785"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
         "title": "AI is more likely than humans to form biases when hiring",
         "source": "MIT Technology Review AI",
@@ -760,5 +730,11 @@
         "title": "Making sense of the panic over Chinese AI",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-26T20:13:56.321679"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
+        "title": "Are brain waves the next unlock for physical AI?",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-27T04:41:19.278367"
     }
 ]

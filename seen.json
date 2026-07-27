@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
-        "title": "Introducing Cosmos 3 Edge",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-20T16:36:16.518306"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/20/youtube-clarifies-policies-around-ai-slop-and-upsetting-videos/",
-        "title": "YouTube clarifies policies around AI slop and upsetting videos",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-20T16:36:16.518306"
-    },
-    {
         "url": "https://openai.com/index/safety-alignment-long-horizon-models",
         "title": "Safety and alignment in an era of long-horizon models",
         "source": "OpenAI Blog",
@@ -784,5 +772,29 @@
         "title": "How lasers could help provide fuel for nuclear reactors",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-27T15:46:49.725507"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
+        "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-27T17:47:33.839247"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
+        "title": "Threads users can now chat with Meta AI in their DMs",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-27T17:47:33.839247"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+        "title": "Google\u2019s AI search is rapidly becoming the default, new data shows",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-27T17:47:33.839247"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
+        "title": "Power up\u00a0your AI infrastructure!\u00a0A first look at\u00a0the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-27T17:47:33.839247"
     }
 ]

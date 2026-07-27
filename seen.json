@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage/",
-        "title": "The Download: AI hiring biases, and weather data sabotage",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-20T14:20:58.873722"
-    },
-    {
         "url": "https://huggingface.co/blog/nvidia/cosmos3edge",
         "title": "Introducing Cosmos 3 Edge",
         "source": "Hugging Face Blog",
@@ -760,5 +754,35 @@
         "title": "Building the enterprise environment for agentic AI",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-27T12:30:32.416966"
+    },
+    {
+        "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
+        "title": "How AI is expanding what people do at work",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-27T15:46:49.725507"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/27/this-9-key-physically-locks-your-most-addictive-apps/",
+        "title": "This $9 key physically locks your most addictive apps",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-27T15:46:49.725507"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/27/ilya-sutskevers-safe-superintelligence-partners-with-nvidia-to-scale-its-ai-research/",
+        "title": "Ilya Sutskever\u2019s Safe Superintelligence partners with Nvidia to scale its AI research",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-27T15:46:49.725507"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/27/enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume/",
+        "title": "Enigma raises $70M to make controlling a robot as easy as adjusting the volume",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-27T15:46:49.725507"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/27/1140798/laser-nuclear-enrichment/",
+        "title": "How lasers could help provide fuel for nuclear reactors",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-27T15:46:49.725507"
     }
 ]

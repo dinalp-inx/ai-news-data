@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-        "title": "Safety and alignment in an era of long-horizon models",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-20T18:57:09.792424"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
-        "title": "China\u2019s AI models have Trump\u2019s AI world at war with itself",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-20T18:57:09.792424"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort/",
         "title": "X relaunches a rebuilt Android app after year-long effort",
         "source": "TechCrunch AI",
@@ -796,5 +784,17 @@
         "title": "Power up\u00a0your AI infrastructure!\u00a0A first look at\u00a0the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-27T17:47:33.839247"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
+        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-27T19:43:25.983671"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
+        "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-27T19:43:25.983671"
     }
 ]

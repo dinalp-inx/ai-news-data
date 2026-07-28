@@ -1,47 +1,5 @@
 [
     {
-        "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
-        "title": "Generative AI to quantify uncertainty in weather forecasting",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-21T19:39:56.498274"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
-        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-21T19:39:56.498274"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
-        "title": "Computer-aided diagnosis for lung cancer screening",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-21T19:39:56.498274"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
-        "title": "Using AI to expand global access to reliable flood forecasts",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-21T19:39:56.498274"
-    },
-    {
-        "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
-        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
-        "source": "Google AI Blog",
-        "saved_at": "2026-07-21T19:39:56.498274"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/21/ai-and-the-rise-of-the-universal-entertainment-app/",
-        "title": "AI and the rise of the universal entertainment app",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-21T19:39:56.498274"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/21/data-centers-expected-to-use-4x-more-electricity-by-2035/",
-        "title": "Data centers expected to use 4x more electricity by 2035",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-21T19:39:56.498274"
-    },
-    {
         "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident",
         "title": "OpenAI and Hugging Face partner to address security incident during model evaluation",
         "source": "OpenAI Blog",
@@ -784,5 +742,35 @@
         "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-28T17:39:57.613003"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-28T19:40:38.396292"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-28T19:40:38.396292"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-28T19:40:38.396292"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-28T19:40:38.396292"
+    },
+    {
+        "url": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "source": "Google AI Blog",
+        "saved_at": "2026-07-28T19:40:38.396292"
     }
 ]

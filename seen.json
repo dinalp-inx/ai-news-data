@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/21/gritt-exits-stealth-with-34-million-for-robots-to-build-solar-plants-then-everything-else/",
-        "title": "Gritt exits stealth with $34 million for robots to build solar plants\u2014then, everything else",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-21T12:26:01.013786"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation/",
-        "title": "Advancing next-gen AI with materials science innovation",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-21T12:26:01.013786"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/21/music-streamer-deezer-says-more-than-50-of-daily-uploads-are-ai-generated/",
-        "title": "Music streamer Deezer says more than 50% of daily uploads are AI-generated",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-21T15:07:38.917527"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement/",
-        "title": "The Download: Chinese AI divides the White House, and a record copyright payout",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-21T15:07:38.917527"
-    },
-    {
         "url": "https://openai.com/index/introducing-chatgpt-small-business-program",
         "title": "Introducing the ChatGPT for small business program",
         "source": "OpenAI Blog",
@@ -784,5 +760,29 @@
         "title": "Samsung\u2019s chip workers are jumping ship to rival SK Hynix",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-28T12:01:01.367987"
+    },
+    {
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+        "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-28T15:24:57.156450"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
+        "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-28T15:24:57.156450"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
+        "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-28T15:24:57.156450"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
+        "title": "The Download: OpenAI\u2019s predictable hack, and an AI stock sell-off",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-28T15:24:57.156450"
     }
 ]

@@ -772,5 +772,23 @@
         "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
         "source": "Google AI Blog",
         "saved_at": "2026-07-28T19:40:38.396292"
+    },
+    {
+        "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
+        "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-07-28T21:12:59.447853"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
+        "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-28T21:12:59.447853"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate/",
+        "title": "Sam Altman is ready to decelerate",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-28T21:12:59.447853"
     }
 ]

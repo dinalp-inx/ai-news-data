@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/how-news-organizations-are-using-ai",
-        "title": "How news organizations are using AI to advance their vital missions",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-22T20:15:15.196707"
-    },
-    {
-        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-        "title": "What building Shippy taught us about building agents",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-22T20:15:15.196707"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face/",
-        "title": "How OpenAI\u2019s human mistake led to the AI-powered hack on Hugging Face",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T20:15:15.196707"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z/",
-        "title": "Travis Kalanick\u2019s robotics company raises $1.7B, led by a16z",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T20:15:15.196707"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads/",
-        "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T20:15:15.196707"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
         "title": "Google justifies its massive AI spending with a booming cloud business",
         "source": "TechCrunch AI",
@@ -724,5 +694,17 @@
         "title": "How an overlooked geothermal plant got a second chance",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-29T19:25:48.160244"
+    },
+    {
+        "url": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-29T21:02:32.414347"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-29T21:02:32.414347"
     }
 ]

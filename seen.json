@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
-        "title": "Synthesia\u2019s AI training platform is moving beyond videos into live coaching",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T09:30:57.362572"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/22/1140701/shape-shifting-mirrors-roman-space-telescope/",
-        "title": "Shape-shifting mirrors on NASA\u2019s new space telescope could unveil Jupiters like our own",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-22T09:30:57.362572"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
         "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
         "source": "TechCrunch AI",
@@ -754,5 +742,11 @@
         "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-07-29T06:36:47.522376"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
+        "title": "The AI Hype Index: Unsexy AI",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-29T09:41:38.173449"
     }
 ]

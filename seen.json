@@ -1,53 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/21/meta-is-testing-an-ai-bedtime-story-app-for-people-with-no-imagination/",
-        "title": "Meta is testing an AI bedtime story app for people with no imagination",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T03:20:35.993170"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models/",
-        "title": "OpenAI says Hugging Face was breached by its pre-release models",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T03:20:35.993170"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
-        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T06:34:55.550832"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.18239",
-        "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-22T06:34:55.550832"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.18240",
-        "title": "Calibrated Selective Fact-Checking via Evidence Chain Evaluation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-22T06:34:55.550832"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.18241",
-        "title": "BatchDAG: LLM-Planned Execution Graphs for Scalable Ad-Hoc Analysis Over Enterprise Data",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-22T06:34:55.550832"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.18242",
-        "title": "AI Tool Discovery at Scale: All You Need is DNS",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-22T06:34:55.550832"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.18243",
-        "title": "From Agent Failure Paths to Quantified Residual Risk: A Compositional Framework for Resilient Agentic AI",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-22T06:34:55.550832"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching/",
         "title": "Synthesia\u2019s AI training platform is moving beyond videos into live coaching",
         "source": "TechCrunch AI",
@@ -772,5 +724,35 @@
         "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-29T03:16:33.048864"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.24758",
+        "title": "Do Models Fake Alignment Without Clear Consequences?",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-29T06:36:47.522376"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.24759",
+        "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-29T06:36:47.522376"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.24762",
+        "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-29T06:36:47.522376"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.24763",
+        "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-29T06:36:47.522376"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.24764",
+        "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-29T06:36:47.522376"
     }
 ]

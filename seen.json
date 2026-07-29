@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
-        "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T11:52:23.911463"
-    },
-    {
         "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
         "title": "Building AI infrastructure with the Effingham County community",
         "source": "OpenAI Blog",
@@ -748,5 +742,11 @@
         "title": "The AI Hype Index: Unsexy AI",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-29T09:41:38.173449"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
+        "title": "As AI content floods the internet, Pangram raises $9M to detect it",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-29T12:05:15.012047"
     }
 ]

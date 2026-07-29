@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
-        "title": "Monday.com lays off hundreds to focus on AI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T18:12:56.187062"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous/",
-        "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T18:12:56.187062"
-    },
-    {
-        "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently/",
-        "title": "Menlo Ventures\u2019 Matt Murphy explains what AI startups founders must do differently",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T18:12:56.187062"
-    },
-    {
         "url": "https://openai.com/index/how-news-organizations-are-using-ai",
         "title": "How news organizations are using AI to advance their vital missions",
         "source": "OpenAI Blog",
@@ -730,5 +712,17 @@
         "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-29T17:20:31.237756"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine/",
+        "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-29T19:25:48.160244"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/07/29/1140896/geothermal-second-chance/",
+        "title": "How an overlooked geothermal plant got a second chance",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-07-29T19:25:48.160244"
     }
 ]

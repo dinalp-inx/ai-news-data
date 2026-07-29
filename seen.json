@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/advancing-the-next-era-of-national-science",
-        "title": "Advancing the next era of national science",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-22T16:24:03.448906"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai/",
-        "title": "Substack\u2019s new tool tells you who\u2019s been writing their newsletters with AI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T16:24:03.448906"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b/",
-        "title": "OpenAI\u2019s AI spending spree has ballooned to $750B",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-22T16:24:03.448906"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai/",
         "title": "Monday.com lays off hundreds to focus on AI",
         "source": "TechCrunch AI",
@@ -736,5 +718,17 @@
         "title": "The Download: a chip talent battle, and deflating AI hype",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-29T15:11:04.989956"
+    },
+    {
+        "url": "https://openai.com/index/chatgpt-for-academic-researchers",
+        "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-29T17:20:31.237756"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
+        "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-29T17:20:31.237756"
     }
 ]

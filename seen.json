@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2607.19349",
-        "title": "FineServe: A Fine-Grained Dataset and Characterization of Global LLM Serving Workloads",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-23T04:19:36.703544"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.19350",
-        "title": "Hybrid LSTM-Graph Neural Framework for Robust Financial Fraud Detection and Adversarial Resilience",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-23T04:19:36.703544"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.19351",
-        "title": "OpenEvoShield: Dual Non-Stationary Continual Defense for Open-World Multi-Agent System Attacks",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-23T04:19:36.703544"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.19353",
-        "title": "Benchmarking Confidential GPU Inference on NVIDIA H100 under Intel TDX",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-23T04:19:36.703544"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.19354",
-        "title": "FormulaSPIN: Self-Play Fine-Tuning for Natural Language to Spreadsheet Formula Generation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-23T04:19:36.703544"
-    },
-    {
         "url": "https://huggingface.co/blog/nunchaku-diffusers",
         "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
         "source": "Hugging Face Blog",

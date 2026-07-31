@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2607.20452",
-        "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-24T06:31:16.066008"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.20462",
-        "title": "Marking the Wrong Symptoms: Evaluating LLM Watermarks in Medical Texts",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-24T06:31:16.066008"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.20463",
-        "title": "ClickGuard: Detecting and Spoiling Clickbait News with Informativeness Measures and Large Language Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-24T06:31:16.066008"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.20464",
-        "title": "Stochastic Sampling is Epistemically Shallow: The Dimensionality Gap Between Temperature Variation and Model Diversity in LLMs",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-24T06:31:16.066008"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.20466",
-        "title": "JAXBench: Benchmarking Autonomous TPU Kernel Optimization",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-24T06:31:16.066008"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
         "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
         "source": "TechCrunch AI",

@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/",
-        "title": "OpenAI\u2019s new voice mode makes it to the ChatGPT desktop app",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-24T13:57:25.244212"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips/",
-        "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-24T13:57:25.244212"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
         "title": "Bluesky\u2019s AI assistant Attie expands into an open social research tool",
         "source": "TechCrunch AI",
@@ -724,5 +712,23 @@
         "title": "The Download: Montana\u2019s new experimental drug rules",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-07-31T13:00:18.364343"
+    },
+    {
+        "url": "https://openai.com/index/building-abundant-intelligence",
+        "title": "Building abundant intelligence",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-31T15:26:39.480086"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
+        "title": "SpaceX won\u2019t remove all of xAI\u2019s unpermitted turbines for another year",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-31T15:26:39.480086"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human/",
+        "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-31T15:26:39.480086"
     }
 ]

@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers/",
-        "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-24T03:21:23.682846"
-    },
-    {
         "url": "https://arxiv.org/abs/2607.20452",
         "title": "AINTMA: Agentic AI Architecture for Autonomous Test Management with Generative Intelligence, Secure Cloud Communication and Adaptive Quality Analytics",
         "source": "ArXiv CS.AI",
@@ -688,5 +682,53 @@
         "title": "Investors love AI, as long as you\u2019re a cloud host",
         "source": "TechCrunch AI",
         "saved_at": "2026-07-31T00:07:53.462223"
+    },
+    {
+        "url": "https://openai.com/index/avatarin",
+        "title": "How avatarin built a 24/7 retail agent with GPT-Realtime",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-07-31T04:27:26.504687"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/30/anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests/",
+        "title": "Anthropic says its own AI models breached three companies during security tests",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-31T04:27:26.504687"
+    },
+    {
+        "url": "https://techcrunch.com/2026/07/30/reddit-reports-a-solid-quarter-but-shows-signs-of-ais-impact/",
+        "title": "Reddit reports a solid quarter but shows signs of AI\u2019s impact",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-07-31T04:27:26.504687"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.26119",
+        "title": "Probing the Origins of Reasoning Performance: Representational Quality for Mathematical Problem-Solving in RL vs. SFT Fine-Tuned Models",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-31T04:27:26.504687"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.26120",
+        "title": "Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-31T04:27:26.504687"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.26155",
+        "title": "ClinLens: Towards Long-Horizon Coding Agents for Longitudinal Multimodal Clinical Data Science",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-31T04:27:26.504687"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.26159",
+        "title": "When benchmark inferences do not compose: Projectibility in AI evaluation",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-31T04:27:26.504687"
+    },
+    {
+        "url": "https://arxiv.org/abs/2607.26160",
+        "title": "GuideSkill: Evolving Executable LLM Agent Skills for Guideline-Grounded Clinical Reasoning",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-07-31T04:27:26.504687"
     }
 ]

@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-        "title": "Librarians are hosting viral \u2018Avoiding AI\u2019 workshops for people who are fed up with Big Tech",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-25T17:06:05.596599"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
         "title": "Monday.com is the latest tech company to blame AI for layoffs \u2014 here are 20 others",
         "source": "TechCrunch AI",
@@ -712,5 +706,11 @@
         "title": "Ten advances in mathematics and theoretical computer science",
         "source": "OpenAI Blog",
         "saved_at": "2026-08-01T09:10:25.394573"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
+        "title": "This $9 key physically locks your most addictive apps",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-01T17:06:38.635021"
     }
 ]

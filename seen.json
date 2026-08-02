@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
-        "title": "Making sense of the panic over Chinese AI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-26T20:13:56.321679"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai/",
         "title": "Are brain waves the next unlock for physical AI?",
         "source": "TechCrunch AI",
@@ -718,5 +712,11 @@
         "title": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-01T21:00:54.790475"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
+        "title": "Sam Altman and AI\u2019s decel debate",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-02T22:00:10.004342"
     }
 ]

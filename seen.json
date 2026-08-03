@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-        "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-27T12:30:32.416966"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/27/1140833/the-download-lasers-nuclear-organ-preservation/",
-        "title": "The Download: lasers for nuclear fuel, and organ preservation advances",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-27T12:30:32.416966"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/27/1140724/the-path-to-artificial-superintelligence/",
-        "title": "The path to artificial superintelligence",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-27T12:30:32.416966"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/27/1139667/closing-the-data-loop-in-ai-driven-drug-discovery/",
-        "title": "Closing the data loop in AI-driven drug discovery",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-27T12:30:32.416966"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/27/1140668/building-the-enterprise-environment-for-agentic-ai/",
-        "title": "Building the enterprise environment for agentic AI",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-27T12:30:32.416966"
-    },
-    {
         "url": "https://openai.com/index/how-ai-is-expanding-what-people-do-at-work",
         "title": "How AI is expanding what people do at work",
         "source": "OpenAI Blog",
@@ -754,5 +724,17 @@
         "title": "Here\u2019s why AI agents lie and cheat to reach their goals",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-08-03T11:32:56.354638"
+    },
+    {
+        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
+        "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-08-03T14:52:59.330129"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+        "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-03T14:52:59.330129"
     }
 ]

@@ -1,41 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control/",
-        "title": "OpenAI\u2019s Hugging Face breach has reignited the debate over alignment and control",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-27T17:47:33.839247"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/27/threads-users-can-now-chat-with-meta-ai-in-their-dms/",
-        "title": "Threads users can now chat with Meta AI in their DMs",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-27T17:47:33.839247"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-        "title": "Google\u2019s AI search is rapidly becoming the default, new data shows",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-27T17:47:33.839247"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/27/power-up-your-ai-infrastructure-a-first-look-at-the-smart-systems-stage-agenda-at-techcrunch-disrupt-2026/",
-        "title": "Power up\u00a0your AI infrastructure!\u00a0A first look at\u00a0the Smart Systems Stage agenda at TechCrunch Disrupt 2026",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-27T17:47:33.839247"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system/",
-        "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-27T19:43:25.983671"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent/",
-        "title": "OpenAI called the Hugging Face attack unprecedented. But we\u2019ve been here before.",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-27T19:43:25.983671"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/27/psa-your-claude-shared-chats-and-artifacts-may-have-ended-up-on-google/",
         "title": "PSA: Your Claude shared chats and Artifacts may have ended up on Google",
         "source": "TechCrunch AI",
@@ -712,5 +676,29 @@
         "title": "Congress\u2019s favorite AI tool? ChatGPT",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-03T17:12:38.336370"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
+        "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-03T19:45:49.513513"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
+        "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-03T19:45:49.513513"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-03T19:45:49.513513"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
+        "title": "Trump\u2019s AI protectionism has come for robotics",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-03T19:45:49.513513"
     }
 ]

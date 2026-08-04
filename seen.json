@@ -1,41 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing/",
-        "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-28T06:31:52.517597"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.22544",
-        "title": "Concept-based Visual Counterfactual Explanations with Diffusion Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-28T06:31:52.517597"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.22548",
-        "title": "SeT-Diff: Towards Semantic Foundation Models for HPC Telemetry and Time-Series",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-28T06:31:52.517597"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.22549",
-        "title": "QFoldAgent: An Autonomous Quantum Optimization Multi-Agent System for Protein Structure Prediction",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-28T06:31:52.517597"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.22554",
-        "title": "Same Question, Different Answers: Evaluating LLM Reliability Beyond Accuracy",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-28T06:31:52.517597"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.22555",
-        "title": "DeepLens Diagnosis Agent: Agentic Workflow Design Lets a Small Reasoning Model Compete with Frontier LLMs",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-28T06:31:52.517597"
-    },
-    {
         "url": "https://huggingface.co/blog/grabette",
         "title": "Grabette: an open system to record robot-manipulation data",
         "source": "Hugging Face Blog",
@@ -706,5 +670,11 @@
         "title": "After killer quarter, Palantir CEO Alex Karp calls AI industry \u2018Marxist\u2019",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-04T03:16:32.113351"
+    },
+    {
+        "url": "https://openai.com/index/apple-is-getting-this-wrong",
+        "title": "Apple is getting this wrong",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-08-04T06:32:25.638267"
     }
 ]

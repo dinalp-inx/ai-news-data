@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-        "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-28T15:24:57.156450"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises/",
-        "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-28T15:24:57.156450"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/28/recursive-superintelligence-signs-400-compute-deal-with-amazon/",
-        "title": "Recursive Superintelligence signs $410 compute deal with Amazon",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-28T15:24:57.156450"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off/",
-        "title": "The Download: OpenAI\u2019s predictable hack, and an AI stock sell-off",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-28T15:24:57.156450"
-    },
-    {
         "url": "https://openai.com/index/scientific-computing-agentic-ai",
         "title": "Scientific computing in the age of agentic AI",
         "source": "OpenAI Blog",
@@ -670,5 +646,35 @@
         "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-04T12:04:53.510942"
+    },
+    {
+        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
+        "title": "Deploy local agents everywhere with LFM2.5-2.6B",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-08-04T15:27:20.924226"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
+        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-04T15:27:20.924226"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-04T15:27:20.924226"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
+        "title": "Is the future of data centers portable? Runware builds a pod to find out",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-04T15:27:20.924226"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
+        "title": "The Download: US robot restrictions, and ICE\u2019s DNA grab",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-04T15:27:20.924226"
     }
 ]

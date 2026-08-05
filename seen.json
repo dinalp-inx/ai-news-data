@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-29T03:16:33.048864"
-    },
-    {
         "url": "https://arxiv.org/abs/2607.24758",
         "title": "Do Models Fake Alignment Without Clear Consequences?",
         "source": "ArXiv CS.AI",
@@ -700,5 +694,35 @@
         "title": "Meet Wrinkles, an app that uncovers the hidden stories of the places around you",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-04T21:17:35.363847"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.02604",
+        "title": "ISEE: Interactive Semantic Enrichment for Database Fields",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-05T05:52:13.392882"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.02606",
+        "title": "Self-Organising Digital Circuits",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-05T05:52:13.392882"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.02618",
+        "title": "Beyond the Hivemind: Escaping LLM Homogeneity via Meta-Persona Anchoring and Sequential Temperature Scaling",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-05T05:52:13.392882"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.02630",
+        "title": "PULSE: An Executable Contract Language for Spatiotemporal Knowledge Graph Engineering",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-05T05:52:13.392882"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.02650",
+        "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-05T05:52:13.392882"
     }
 ]

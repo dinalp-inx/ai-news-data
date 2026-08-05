@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/building-ai-infrastructure-with-the-effingham-county-community",
-        "title": "Building AI infrastructure with the Effingham County community",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-29T15:11:04.989956"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-        "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-29T15:11:04.989956"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype/",
-        "title": "The Download: a chip talent battle, and deflating AI hype",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-29T15:11:04.989956"
-    },
-    {
         "url": "https://openai.com/index/chatgpt-for-academic-researchers",
         "title": "Accelerating scientific discovery with ChatGPT for Academic Researchers",
         "source": "OpenAI Blog",
@@ -712,5 +694,29 @@
         "title": "The Download: NASA\u2019s new telescope and Chinese tech import curbs",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-08-05T14:23:11.771717"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-05T16:45:25.518595"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
+        "title": "Hark previews its browser use agent for completing tasks",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-05T16:45:25.518595"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
+        "title": "TechCrunch Disrupt 2026\u2019s Real World AI Stage features robots, automated factories, and extinct animals",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-05T16:45:25.518595"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
+        "title": "Puzzle Corner",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-05T16:45:25.518595"
     }
 ]

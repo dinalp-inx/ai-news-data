@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2607.24758",
-        "title": "Do Models Fake Alignment Without Clear Consequences?",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-29T06:36:47.522376"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.24759",
-        "title": "Beyond Memory: A Templated Substrate for Heterogeneous Collaborative Knowledge Work with LLM Agents",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-29T06:36:47.522376"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.24762",
-        "title": "Kernel Forge: An Agent Harness for LLM-based Generation and Optimization of CUDA Kernels",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-29T06:36:47.522376"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.24763",
-        "title": "CaRE Compute-aware Remasking Evaluation Protocol for Masked Diffusion Language Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-29T06:36:47.522376"
-    },
-    {
-        "url": "https://arxiv.org/abs/2607.24764",
-        "title": "GrocLM: Grocery Category Recommendation in E-Commerce with Large Language Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-07-29T06:36:47.522376"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
         "title": "The AI Hype Index: Unsexy AI",
         "source": "MIT Technology Review AI",
@@ -724,5 +694,11 @@
         "title": "HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-08-05T05:52:13.392882"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
+        "title": "NASA\u2019s new dark energy space telescope can also detect killer asteroids",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-05T08:44:59.747875"
     }
 ]

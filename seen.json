@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai/",
-        "title": "The AI Hype Index: Unsexy AI",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-29T09:41:38.173449"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
         "title": "As AI content floods the internet, Pangram raises $9M to detect it",
         "source": "TechCrunch AI",
@@ -700,5 +694,11 @@
         "title": "NASA\u2019s new dark energy space telescope can also detect killer asteroids",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-08-05T08:44:59.747875"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
+        "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-05T11:25:11.087055"
     }
 ]

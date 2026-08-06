@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
-        "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-07-30T11:13:16.135101"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
         "title": "TechCrunch Disrupt 2026\u2019s biggest stage features leaders from Amazon,\u00a0Replit, Tether, with much\u00a0more to come",
         "source": "TechCrunch AI",
@@ -682,5 +676,23 @@
         "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-08-06T04:18:06.418232"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
+        "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-06T12:59:44.662590"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/06/omilia-raises-67m-to-scale-its-customer-support-platform/",
+        "title": "Omilia raises $67M to scale its customer support platform",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-06T12:59:44.662590"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
+        "title": "The Download: Google\u2019s AI shake-up and Meta\u2019s rogue model",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-06T12:59:44.662590"
     }
 ]

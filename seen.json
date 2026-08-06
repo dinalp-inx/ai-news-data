@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/nunchaku-diffusers",
-        "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-07-30T08:37:16.094780"
-    },
-    {
         "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack/",
         "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
         "source": "MIT Technology Review AI",

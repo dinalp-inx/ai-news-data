@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever/",
-        "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-30T02:49:21.366295"
-    },
-    {
         "url": "https://huggingface.co/blog/nunchaku-diffusers",
         "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
         "source": "Hugging Face Blog",
@@ -664,5 +658,35 @@
         "title": "Meta launches Muse Code, an AI agent for large code bases",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-05T22:15:48.207923"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.04012",
+        "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-06T04:18:06.418232"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.04066",
+        "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-06T04:18:06.418232"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.04071",
+        "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-06T04:18:06.418232"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.04077",
+        "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-06T04:18:06.418232"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.04095",
+        "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-06T04:18:06.418232"
     }
 ]

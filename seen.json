@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation",
-        "title": "Disrupting a Criminal Scam Operation",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-07-31T17:45:31.084212"
-    },
-    {
-        "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai/",
-        "title": "Sam Altman\u00a0isn\u2019t\u00a0the only one who wants to pump the brakes on AI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-31T17:45:31.084212"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content/",
-        "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-31T17:45:31.084212"
-    },
-    {
-        "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-        "title": "Siri AI could come with a paywall for power users",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-31T17:45:31.084212"
-    },
-    {
         "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
         "title": "India is starting to pay for apps, not just download them",
         "source": "TechCrunch AI",
@@ -640,5 +616,17 @@
         "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-08-07T14:58:34.013808"
+    },
+    {
+        "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
+        "title": "Responding to the next frontier of critical cyber capabilities",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-08-07T17:52:09.218580"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
+        "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-07T17:52:09.218580"
     }
 ]

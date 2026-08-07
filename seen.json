@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-        "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-07-31T23:08:02.004250"
-    },
-    {
         "url": "https://openai.com/index/ten-advances-in-mathematics",
         "title": "Ten advances in mathematics and theoretical computer science",
         "source": "OpenAI Blog",
@@ -634,5 +628,11 @@
         "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-07T21:45:01.501611"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+        "title": "OpenAI says it slowed Astra model development over security concerns",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-07T23:38:08.760763"
     }
 ]

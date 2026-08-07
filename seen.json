@@ -652,5 +652,11 @@
         "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-08-07T05:44:33.132720"
+    },
+    {
+        "url": "https://openai.com/index/hsp-gruppe",
+        "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-08-07T09:05:46.330270"
     }
 ]

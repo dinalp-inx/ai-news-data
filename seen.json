@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-        "title": "Judge denies xAI\u2019s request to block Minnesota ban on \u2018nudify\u2019 apps",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-01T21:00:54.790475"
-    },
-    {
-        "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-        "title": "YouTuber Hank Green says his AI usage is \u2018not healthy\u2019",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-01T21:00:54.790475"
-    },
-    {
         "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate/",
         "title": "Sam Altman and AI\u2019s decel debate",
         "source": "TechCrunch AI",
@@ -622,5 +610,11 @@
         "title": "OpenAI acquires presentation startup NextSlide",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-08T20:36:27.146774"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+        "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-08T21:35:42.643282"
     }
 ]

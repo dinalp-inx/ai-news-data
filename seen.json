@@ -634,5 +634,35 @@
         "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-09T20:39:06.822041"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.06394",
+        "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-10T04:43:48.296158"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.06398",
+        "title": "EntropyMoE: Entropy-Aware Sparse Expert Routing for Tokenizer-Free LLMs",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-10T04:43:48.296158"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.06400",
+        "title": "Beyond Routing Weights: Faithful Response-Level Interpretation of Mixture-of-Experts Reward Models via Contribution Contrast",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-10T04:43:48.296158"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.06402",
+        "title": "Interpretable Unsupervised Community Detection with LLM-Symbolized Structured Processes",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-10T04:43:48.296158"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.06410",
+        "title": "ADIAS: Automated Design of Interactive Agentic Systems",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-10T04:43:48.296158"
     }
 ]

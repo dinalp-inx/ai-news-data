@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/08/03/designarena-creators-raise-7-9-million-to-bring-taste-to-ai-models/",
-        "title": "DesignArena creators raise $7.9 million to bring taste to AI models",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-03T19:45:49.513513"
-    },
-    {
-        "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip/",
-        "title": "Influencers draw backlash for attending OpenAI\u2019s first luxury trip",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-03T19:45:49.513513"
-    },
-    {
-        "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
-        "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-03T19:45:49.513513"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
-        "title": "Trump\u2019s AI protectionism has come for robotics",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-08-03T19:45:49.513513"
-    },
-    {
         "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
         "title": "How we built a realtime system for responsive voice AI in six months",
         "source": "OpenAI Blog",
@@ -688,5 +664,17 @@
         "title": "Expanding Daybreak as the Cyber Defense Window Narrows",
         "source": "OpenAI Blog",
         "saved_at": "2026-08-10T19:07:49.288643"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym/",
+        "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-10T20:50:28.157316"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
+        "title": "AI professors are negotiating the new realities of academic research",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-10T20:50:28.157316"
     }
 ]

@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/continuous-voice-interaction-with-gpt-live",
-        "title": "How we built a realtime system for responsive voice AI in six months",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-08-03T21:10:30.805970"
-    },
-    {
-        "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big/",
-        "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-03T21:10:30.805970"
-    },
-    {
         "url": "https://openai.com/index/circles",
         "title": "Circles powers telco personalization with OpenAI technology",
         "source": "OpenAI Blog",
@@ -676,5 +664,11 @@
         "title": "AI professors are negotiating the new realities of academic research",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-08-10T20:50:28.157316"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai/",
+        "title": "Mark Zuckerberg\u2019s AI manifesto is exactly why people don\u2019t like AI",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-10T21:48:42.425386"
     }
 ]

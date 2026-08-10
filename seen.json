@@ -1,17 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams",
-        "title": "NVIDIA Cosmos-H-Dreams: Bringing Real-Time Generative Simulation to Surgical Robotics",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-08-03T14:52:59.330129"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
-        "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-08-03T14:52:59.330129"
-    },
-    {
         "url": "https://techcrunch.com/2026/08/03/congresss-favorite-ai-tool-chatgpt/",
         "title": "Congress\u2019s favorite AI tool? ChatGPT",
         "source": "TechCrunch AI",
@@ -658,5 +646,17 @@
         "title": "The Download: AI agents for science, and the \u201ccensorship-industrial complex\u201d",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-08-10T13:21:16.860684"
+    },
+    {
+        "url": "https://openai.com/index/responsible-ai-infrastructure-texas",
+        "title": "OpenAI\u2019s letter to Governor Abbott on responsible AI infrastructure in Texas",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-08-10T15:04:38.592718"
+    },
+    {
+        "url": "https://openai.com/index/model-ml",
+        "title": "Model ML completes finance work more efficiently with GPT-5.6 Sol",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-08-10T15:04:38.592718"
     }
 ]

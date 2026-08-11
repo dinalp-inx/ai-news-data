@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b",
-        "title": "Deploy local agents everywhere with LFM2.5-2.6B",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-08-04T15:27:20.924226"
-    },
-    {
-        "url": "https://techcrunch.com/2026/08/04/elon-musk-spends-half-his-time-talking-robots-and-ai-on-tesla-earnings-calls/",
-        "title": "Elon Musk spends half his time talking robots and AI on Tesla earnings calls",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-04T15:27:20.924226"
-    },
-    {
-        "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-        "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-04T15:27:20.924226"
-    },
-    {
-        "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out/",
-        "title": "Is the future of data centers portable? Runware builds a pod to find out",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-04T15:27:20.924226"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna/",
-        "title": "The Download: US robot restrictions, and ICE\u2019s DNA grab",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-08-04T15:27:20.924226"
-    },
-    {
         "url": "https://openai.com/index/learn-teach-chatgpt-work-codex",
         "title": "New ways to learn and teach with ChatGPT Work and Codex",
         "source": "OpenAI Blog",
@@ -712,5 +682,17 @@
         "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
         "source": "Hugging Face Blog",
         "saved_at": "2026-08-11T15:03:24.478992"
+    },
+    {
+        "url": "https://openai.com/index/testing-ads-in-chatgpt",
+        "title": "Testing ads in ChatGPT",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-08-11T17:02:38.016367"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/11/an-unreleased-anthropic-model-made-progress-on-one-of-maths-biggest-unsolved-problems/",
+        "title": "An unreleased Anthropic model made progress on one of math\u2019s biggest unsolved problems",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-11T17:02:38.016367"
     }
 ]

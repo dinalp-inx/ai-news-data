@@ -1,29 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-        "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-05T16:45:25.518595"
-    },
-    {
-        "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks/",
-        "title": "Hark previews its browser use agent for completing tasks",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-05T16:45:25.518595"
-    },
-    {
-        "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals/",
-        "title": "TechCrunch Disrupt 2026\u2019s Real World AI Stage features robots, automated factories, and extinct animals",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-05T16:45:25.518595"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-        "title": "Puzzle Corner",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-08-05T16:45:25.518595"
-    },
-    {
         "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders/",
         "title": "Klaviyo acquires Elias Torres\u2019 Agency in full-circle reunion for tech founders",
         "source": "TechCrunch AI",
@@ -676,5 +652,41 @@
         "title": "Everything announced at Made by Google \u201926: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-12T15:02:52.415634"
+    },
+    {
+        "url": "https://huggingface.co/blog/allenai/olmoearth-embeddings",
+        "title": "Introducing OlmoEarth embeddings: Custom embedding exports from OlmoEarth Studio for downstream analysis",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-08-12T17:01:38.697656"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+        "title": "Mesh, Automattic\u2019s CRM for everyone, comes to Android",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-12T17:01:38.697656"
+    },
+    {
+        "url": "https://techcrunch.com/video/why-stream-ring-maker-sandbar-says-the-future-of-ai-wearables-is-voice/",
+        "title": "Why Stream\u00a0ring-maker Sandbar says the future of AI wearables is voice",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-12T17:01:38.697656"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/12/lovable-confirms-new-13-3b-valuation-raises-another-400m/",
+        "title": "Lovable confirms new $13.3B valuation, raises another $400M",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-12T17:01:38.697656"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures/",
+        "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-12T17:01:38.697656"
+    },
+    {
+        "url": "https://techcrunch.com/podcast/why-sandbar-thinks-its-voice-enabled-ring-can-avoid-the-ai-hardware-graveyard/",
+        "title": "Why Sandbar thinks it\u2019s voice-enabled ring can avoid the AI hardware graveyard",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-12T17:01:38.697656"
     }
 ]

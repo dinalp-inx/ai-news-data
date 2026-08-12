@@ -670,5 +670,35 @@
         "title": "Accel closes oversubscribed $550M India fund within weeks, 19 months after its last",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-11T21:54:57.054157"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.09949",
+        "title": "Closed-Loop LLM Co-Pilots for Digital Agriculture",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-12T04:51:57.647462"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.09967",
+        "title": "SPOTting the Future: Lookahead Explanations for Deep Reinforcement Learning",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-12T04:51:57.647462"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.09986",
+        "title": "MIDAS: Mutual Information Disentanglement with Uncertainty-Aware Fusion for Incomplete Multimodal Sentiment Analysis",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-12T04:51:57.647462"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.09998",
+        "title": "Towards Sustainable Artificial Intelligence: A Comprehensive Review and Comparative Analysis of Deep Learning Models' Carbon Footprint",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-12T04:51:57.647462"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.10004",
+        "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-12T04:51:57.647462"
     }
 ]

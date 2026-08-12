@@ -706,5 +706,17 @@
         "title": "Scientists just created female clones of male mice",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-08-12T20:52:34.886574"
+    },
+    {
+        "url": "https://openai.com/index/ringcentral",
+        "title": "How RingCentral builds AI-native work from engineering to ops",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-08-12T21:52:33.935965"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/12/amazon-will-train-on-twitch-streamers-content-by-default-unless-they-opt-out/",
+        "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-12T21:52:33.935965"
     }
 ]

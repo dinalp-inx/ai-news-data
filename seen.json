@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
-        "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-05T11:25:11.087055"
-    },
-    {
         "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team/",
         "title": "Anthropic is hiring an AI chip design team",
         "source": "TechCrunch AI",
@@ -670,5 +664,11 @@
         "title": "How we picked 35 of the world\u2019s top young scientists and engineers",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-08-12T10:12:33.857873"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/12/blacksmiths-valuation-jumps-10x-to-550m-as-ai-coding-fuels-software-validation/",
+        "title": "AI code-testing startup Blacksmith\u2019s valuation jumps almost 10x in less than a year",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-12T11:51:56.209992"
     }
 ]

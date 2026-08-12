@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://www.technologyreview.com/2026/08/05/1141200/nasas-roman-telescope-detect-asteroids/",
-        "title": "NASA\u2019s new dark energy space telescope can also detect killer asteroids",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-08-05T08:44:59.747875"
-    },
-    {
         "url": "https://techcrunch.com/2026/08/05/ai-makes-weather-prediction-better-can-windborne-make-it-lucrative/",
         "title": "AI makes weather prediction better. Can WindBorne make it lucrative?",
         "source": "TechCrunch AI",
@@ -670,5 +664,11 @@
         "title": "ReCBM: Uncertainty-Gated Relational Reasoning for Concept Bottleneck Models",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-08-12T04:51:57.647462"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+        "title": "How we picked 35 of the world\u2019s top young scientists and engineers",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-12T10:12:33.857873"
     }
 ]

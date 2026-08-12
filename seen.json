@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases/",
-        "title": "Meta launches Muse Code, an AI agent for large code bases",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-05T22:15:48.207923"
-    },
-    {
         "url": "https://arxiv.org/abs/2608.04012",
         "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
         "source": "ArXiv CS.AI",
@@ -718,5 +712,11 @@
         "title": "Amazon will train on Twitch streamers\u2019 content by default, unless they opt out",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-12T21:52:33.935965"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/12/some-claude-users-are-mad-that-anthropics-new-watermarks-will-catch-them-cheating-at-their-jobs-classes/",
+        "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them cheating at their jobs, classes",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-12T22:48:27.637528"
     }
 ]

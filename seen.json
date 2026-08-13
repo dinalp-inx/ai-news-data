@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2608.04012",
-        "title": "A Long-Run Persistence Theory for AI Systems under the Redundancy-Adjusted Artificial Age Score (AAS)",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-08-06T04:18:06.418232"
-    },
-    {
-        "url": "https://arxiv.org/abs/2608.04066",
-        "title": "The LLM Proposes, the Executive Disposes: A Self-Verifying Agent Instrument that Dissociates Commitment Drift from Binding Drift in Long-Horizon Agents",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-08-06T04:18:06.418232"
-    },
-    {
-        "url": "https://arxiv.org/abs/2608.04071",
-        "title": "Monte Carlo Tree Search for Table-to-Multimodal Report Generation",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-08-06T04:18:06.418232"
-    },
-    {
-        "url": "https://arxiv.org/abs/2608.04077",
-        "title": "FinProBench: Evaluating Financial AI Agents with Role-Grounded Rubrics Derived from Professional Deliverables",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-08-06T04:18:06.418232"
-    },
-    {
-        "url": "https://arxiv.org/abs/2608.04095",
-        "title": "FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-08-06T04:18:06.418232"
-    },
-    {
         "url": "https://techcrunch.com/2026/08/06/google-maps-adds-agentic-features-including-food-ordering-and-hotel-bookings/",
         "title": "Google Maps adds agentic features, including food ordering and hotel bookings",
         "source": "TechCrunch AI",
@@ -718,5 +688,35 @@
         "title": "Some Claude users are mad that Anthropic\u2019s new watermarks will catch them cheating at their jobs, classes",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-12T22:48:27.637528"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.11207",
+        "title": "Dynamic Governance of Multi-LLM Agent Systems for Collaborative Conversational Outcomes",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-13T04:56:29.383051"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.11210",
+        "title": "Distribird: Literature-Informed Prior Distribution Design for Bayesian Model Calibration",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-13T04:56:29.383051"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.11211",
+        "title": "A Forced-Structure Reduction and Verifiable Bounds for Conway's 99-Graph",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-13T04:56:29.383051"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.11212",
+        "title": "Detecting a Route Flip Is Easier Than Knowing Whether to Fix It: Causal Route-Mediated Damage in Quantized Mixture-of-Experts",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-13T04:56:29.383051"
+    },
+    {
+        "url": "https://arxiv.org/abs/2608.11215",
+        "title": "Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop",
+        "source": "ArXiv CS.AI",
+        "saved_at": "2026-08-13T04:56:29.383051"
     }
 ]

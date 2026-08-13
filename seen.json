@@ -730,5 +730,35 @@
         "title": "Nvidia\u2019s new $500B plan is risky but brilliant, especially for aging GPUs",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-13T17:01:04.018547"
+    },
+    {
+        "url": "https://openai.com/index/builders-guide-to-gpt-5-6",
+        "title": "The builder\u2019s guide to GPT\u20115.6",
+        "source": "OpenAI Blog",
+        "saved_at": "2026-08-13T19:09:36.790785"
+    },
+    {
+        "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
+        "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-08-13T19:09:36.790785"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war/",
+        "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-13T19:09:36.790785"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/13/openai-hires-new-cro-as-executive-shake-up-continues/",
+        "title": "OpenAI hires new CRO as executive shake-up continues",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-13T19:09:36.790785"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/13/1141041/building-a-practical-path-to-post-quantum-cryptography/",
+        "title": "Building a practical path to post-quantum cryptography",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-13T19:09:36.790785"
     }
 ]

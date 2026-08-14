@@ -1,47 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt",
-        "title": "Improving GPT\u20115.6 Sol in ChatGPT\u2014and expanding access to GPT-5.6 Luna for free users",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-08-07T00:07:17.739389"
-    },
-    {
-        "url": "https://openai.com/index/openai-and-apa-partner-to-advance-responsible-ai",
-        "title": "Working with the American Psychological Association on youth mental health and AI",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-08-07T00:07:17.739389"
-    },
-    {
-        "url": "https://openai.com/index/how-the-world-is-putting-chatgpt-to-work",
-        "title": "From asking to doing: How the world is putting ChatGPT to work",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-08-07T00:07:17.739389"
-    },
-    {
-        "url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
-        "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
-        "source": "Hugging Face Blog",
-        "saved_at": "2026-08-07T00:07:17.739389"
-    },
-    {
-        "url": "https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400/",
-        "title": "OpenAI\u2019s new AI smart speaker will reportedly sell for between $300 and $400",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-07T00:07:17.739389"
-    },
-    {
-        "url": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-        "title": "ChatGPT brings unlimited text chats to free users",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-07T00:07:17.739389"
-    },
-    {
-        "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
-        "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
-        "source": "VentureBeat AI",
-        "saved_at": "2026-08-07T00:07:17.739389"
-    },
-    {
         "url": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
         "title": "Na\u00efve raises $28.5M to automate the grunt work of setting up and running a company",
         "source": "TechCrunch AI",
@@ -790,5 +748,11 @@
         "title": "Roundtables: Inside the \u201cCensorship-Industrial Complex\u201d Idea Shaping US Policy",
         "source": "MIT Technology Review AI",
         "saved_at": "2026-08-13T21:52:23.168486"
+    },
+    {
+        "url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
+        "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
+        "source": "VentureBeat AI",
+        "saved_at": "2026-08-14T02:25:40.696048"
     }
 ]

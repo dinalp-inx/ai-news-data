@@ -1,35 +1,5 @@
 [
     {
-        "url": "https://arxiv.org/abs/2608.05159",
-        "title": "Agentic Nesting: A New Methodology for Existing Enterprise Application Integration and Services",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-08-07T05:44:33.132720"
-    },
-    {
-        "url": "https://arxiv.org/abs/2608.05160",
-        "title": "The Ignition Index: Measuring Global Workspace Dynamics in Language Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-08-07T05:44:33.132720"
-    },
-    {
-        "url": "https://arxiv.org/abs/2608.05168",
-        "title": "Woodpecker Distillation: Weak Models Diagnose Reasoning Bugs in Strong Models",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-08-07T05:44:33.132720"
-    },
-    {
-        "url": "https://arxiv.org/abs/2608.05203",
-        "title": "From Continuous Predictors to Clinical Thresholds: Early Evidence on Performance Trade-offs of Guideline-Based Categorisation for Ischaemic Stroke Outcome Prediction",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-08-07T05:44:33.132720"
-    },
-    {
-        "url": "https://arxiv.org/abs/2608.05204",
-        "title": "SkillTrace: Multi-Trace Provenance Auditing for LLM-Agent Skill Reuse",
-        "source": "ArXiv CS.AI",
-        "saved_at": "2026-08-07T05:44:33.132720"
-    },
-    {
         "url": "https://openai.com/index/hsp-gruppe",
         "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
         "source": "OpenAI Blog",

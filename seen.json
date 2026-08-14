@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://openai.com/index/hsp-gruppe",
-        "title": "How HSP GRUPPE builds AI capabilities for tax advisory",
-        "source": "OpenAI Blog",
-        "saved_at": "2026-08-07T09:05:46.330270"
-    },
-    {
         "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
         "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
         "source": "TechCrunch AI",
@@ -742,5 +736,23 @@
         "title": "Multi-Agent Scheduling with LLM-Assisted Contract Net Negotiation for Stream Processing in Mobile Edge Computing",
         "source": "ArXiv CS.AI",
         "saved_at": "2026-08-14T04:52:56.454700"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/14/1141354/deanne-taylor-gene-expression-children/",
+        "title": "This scientist is helping build a missing map of childhood",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-14T10:09:34.071647"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/14/1141431/job-titles-space-travel-agent-roman-chiporukha/",
+        "title": "Job titles of the future: Space travel agent",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-14T10:09:34.071647"
+    },
+    {
+        "url": "https://www.technologyreview.com/2026/08/14/1141919/cloning-save-species-or-make-human-organ-sacks/",
+        "title": "Cloning could be used to save species\u2014or make human \u201corgan sacks\u201d",
+        "source": "MIT Technology Review AI",
+        "saved_at": "2026-08-14T10:09:34.071647"
     }
 ]

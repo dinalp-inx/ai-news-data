@@ -1,23 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/08/07/airbnb-says-ai-is-helping-it-ship-features-faster-as-it-tests-a-new-search-function/",
-        "title": "Airbnb says AI is helping it ship features faster as it tests a new search function",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-07T14:58:34.013808"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-        "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-08-07T14:58:34.013808"
-    },
-    {
-        "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-        "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-        "source": "MIT Technology Review AI",
-        "saved_at": "2026-08-07T14:58:34.013808"
-    },
-    {
         "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities",
         "title": "Responding to the next frontier of critical cyber capabilities",
         "source": "OpenAI Blog",
@@ -766,5 +748,23 @@
         "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-14T14:57:04.073412"
+    },
+    {
+        "url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
+        "title": "State of Open Models: Summer 2026 Observations",
+        "source": "Hugging Face Blog",
+        "saved_at": "2026-08-14T15:58:50.687687"
+    },
+    {
+        "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone/",
+        "title": "Does Mark Zuckerberg really believe AI is \u2018for everyone\u2019?",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-14T15:58:50.687687"
+    },
+    {
+        "url": "https://techcrunch.com/podcast/metas-open-ai-and-a-250m-deal-gone-very-wrong/",
+        "title": "Meta\u2019s\u00a0\u2018open\u2019\u00a0AI, and a $250M deal gone very wrong",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-14T15:58:50.687687"
     }
 ]

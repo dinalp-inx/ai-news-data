@@ -1,11 +1,5 @@
 [
     {
-        "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry/",
-        "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
-        "source": "TechCrunch AI",
-        "saved_at": "2026-08-09T20:39:06.822041"
-    },
-    {
         "url": "https://arxiv.org/abs/2608.06394",
         "title": "Towards Multi-Label Graph Foundation Models: from Single-Vector Representation Learning to Multi-Semantic Basis Learning",
         "source": "ArXiv CS.AI",
@@ -730,5 +724,17 @@
         "title": "Anthropic CEO says AI backlash is \u2018fundamentally a crisis of trust\u2019",
         "source": "TechCrunch AI",
         "saved_at": "2026-08-16T17:24:01.864978"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/16/stripe-will-reportedly-acquire-ai-gateway-startup-openrouter-for-7b/",
+        "title": "Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-16T21:25:26.987494"
+    },
+    {
+        "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future/",
+        "title": "Why people aren\u2019t buying Mark Zuckerberg\u2019s AI future",
+        "source": "TechCrunch AI",
+        "saved_at": "2026-08-16T21:25:26.987494"
     }
 ]
